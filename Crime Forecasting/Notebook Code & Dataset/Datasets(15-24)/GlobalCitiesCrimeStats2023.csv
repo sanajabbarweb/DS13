@@ -1,0 +1,417 @@
+Year,City_name,City_Rank,City_Crime_Index,City_Safety_Index
+2023,"Caracas, Venezuela",1,83.6,16.4
+2023,"Pretoria, South Africa",2,82,18
+2023,"Durban, South Africa",3,81,19
+2023,"Port Moresby, Papua New Guinea",4,80.7,19.3
+2023,"Johannesburg, South Africa",5,80.7,19.3
+2023,"San Pedro Sula, Honduras",6,80.5,19.5
+2023,"Kabul, Afghanistan",7,79.8,20.2
+2023,"Rio de Janeiro, Brazil",8,77.6,22.4
+2023,"Fortaleza, Brazil",9,77.3,22.7
+2023,"Natal, Brazil",10,77.2,22.8
+2023,"Port Elizabeth, South Africa",11,76.9,23.1
+2023,"Salvador, Brazil",12,76.6,23.4
+2023,"Recife, Brazil",13,76.4,23.6
+2023,"Port of Spain, Trinidad And Tobago",14,76.2,23.8
+2023,"Baltimore, MD, United States",15,75.5,24.5
+2023,"Rosario, Argentina",16,75.2,24.8
+2023,"Alice Springs, Australia",17,74.8,25.2
+2023,"Memphis, TN, United States",18,74.8,25.2
+2023,"Detroit, MI, United States",19,74.1,25.9
+2023,"Cape Town, South Africa",20,73.6,26.4
+2023,"Porto Alegre, Brazil",21,72.4,27.6
+2023,"Guayaquil, Ecuador",22,71.6,28.4
+2023,"Albuquerque, NM, United States",23,71.5,28.5
+2023,"Tijuana, Mexico",24,71.4,28.6
+2023,"Lima, Peru",25,70.9,29.1
+2023,"Kingston, Jamaica",26,70.9,29.1
+2023,"Saint Louis, MO, United States",27,70.6,29.4
+2023,"Sao Paulo, Brazil",28,70.5,29.5
+2023,"Cali, Colombia",29,70.2,29.8
+2023,"Damascus, Syria",30,70,30
+2023,"Bradford, United Kingdom",31,69.2,30.8
+2023,"Windhoek, Namibia",32,68.6,31.4
+2023,"Mexico City, Mexico",33,68.5,31.5
+2023,"San Juan, Puerto Rico",34,68.4,31.6
+2023,"New Orleans, LA, United States",35,67.6,32.4
+2023,"Rockhampton, Australia",36,67.6,32.4
+2023,"Lagos, Nigeria",37,67.5,32.5
+2023,"Oakland, CA, United States",38,67.4,32.6
+2023,"Santo Domingo, Dominican Republic",39,67.2,32.8
+2023,"Milwaukee, WI, United States",40,67.1,32.9
+2023,"Campinas, Brazil",41,66.8,33.2
+2023,"San Salvador, El Salvador",42,66.2,33.8
+2023,"Chicago, IL, United States",43,66.1,33.9
+2023,"Bogota, Colombia",44,66,34
+2023,"Manila, Philippines",45,65.4,34.6
+2023,"Philadelphia, PA, United States",46,64.9,35.1
+2023,"Marseille, France",47,64.7,35.3
+2023,"Cleveland, OH, United States",48,64,36
+2023,"Catania, Italy",49,63.9,36.1
+2023,"Houston, TX, United States",50,63.8,36.2
+2023,"Guatemala City, Guatemala",51,63.8,36.2
+2023,"Belo Horizonte, Brazil",52,63.7,36.3
+2023,"Coventry, United Kingdom",53,63.6,36.4
+2023,"Atlanta, GA, United States",54,63.5,36.5
+2023,"Buenos Aires, Argentina",55,63.3,36.7
+2023,"Almaty, Kazakhstan",56,63.3,36.7
+2023,"Quezon City, Philippines",57,63.2,36.8
+2023,"Dhaka, Bangladesh",58,63.2,36.8
+2023,"Lethbridge, AB, Canada",59,63.1,36.9
+2023,"Kuala Lumpur, Malaysia",60,63,37
+2023,"Surrey, Canada",61,63,37
+2023,"Nantes, France",62,62.9,37.1
+2023,"Guadalajara, Mexico",63,62.7,37.3
+2023,"Male, Maldives",64,62.6,37.4
+2023,"Birmingham, United Kingdom",65,62.6,37.4
+2023,"Curitiba, Brazil",66,62.5,37.5
+2023,"Tripoli, Libya",67,62.5,37.5
+2023,"Anchorage, AK, United States",68,62.3,37.7
+2023,"Cairns, Australia",69,61.7,38.3
+2023,"Kelowna, Canada",70,61.7,38.3
+2023,"Naples, Italy",71,61.7,38.3
+2023,"Red Deer, Canada",72,61.6,38.4
+2023,"Quito, Ecuador",73,61.5,38.5
+2023,"Cordoba, Argentina",74,61.2,38.8
+2023,"Santiago, Chile",75,61.2,38.8
+2023,"San Francisco, CA, United States",76,61.1,38.9
+2023,"Harare, Zimbabwe",77,60.6,39.4
+2023,"Montpellier, France",78,60.5,39.5
+2023,"Darwin, Australia",79,60.4,39.6
+2023,"Liege, Belgium",80,60.4,39.6
+2023,"Sudbury, Canada",81,60.2,39.8
+2023,"Ghaziabad, India",82,60.1,39.9
+2023,"Washington, DC, United States",83,60.1,39.9
+2023,"Nice, France",84,60.1,39.9
+2023,"Brasilia, Brazil",85,59.9,40.1
+2023,"Puebla, Mexico",86,59.7,40.3
+2023,"Nairobi, Kenya",87,59.3,40.7
+2023,"Delhi, India",88,59.2,40.8
+2023,"Indianapolis, IN, United States",89,58.9,41.1
+2023,"Sault Ste. Marie, Canada",90,58.9,41.1
+2023,"Baghdad, Iraq",91,58.9,41.1
+2023,"Winnipeg, Canada",92,58.8,41.2
+2023,"Klang, Malaysia",93,58.4,41.6
+2023,"Kansas City, MO, United States",94,58.1,41.9
+2023,"Minsk, Belarus",95,57.7,42.3
+2023,"Townsville, Australia",96,57.4,42.6
+2023,"Grenoble, France",97,57.4,42.6
+2023,"Louisville, KY, United States",98,57.3,42.7
+2023,"Jacksonville, FL, United States",99,57.1,42.9
+2023,"Cancun, Mexico",100,56.9,43.1
+2023,"Paris, France",101,56.9,43.1
+2023,"Oshawa, Canada",102,56.5,43.5
+2023,"Toowoomba, Australia",103,56.4,43.6
+2023,"Tehran, Iran",104,55.9,44.1
+2023,"Athens, Greece",105,55.9,44.1
+2023,"Montevideo, Uruguay",106,55.8,44.2
+2023,"San Jose, Costa Rica",107,55.7,44.3
+2023,"Malmo, Sweden",108,55.7,44.3
+2023,"Geelong, Australia",109,55.6,44.4
+2023,"Phnom Penh, Cambodia",110,55.4,44.6
+2023,"Manchester, United Kingdom",111,55.4,44.6
+2023,"Hamilton, Canada",112,55.3,44.7
+2023,"Minneapolis, MN, United States",113,55.3,44.7
+2023,"Noida, India",114,55.3,44.7
+2023,"Medellin, Colombia",115,55.2,44.8
+2023,"Las Vegas, NV, United States",116,55.2,44.8
+2023,"Johor Bahru, Malaysia",117,54.9,45.1
+2023,"Brampton, Canada",118,54.8,45.2
+2023,"Casablanca, Morocco",119,54.6,45.4
+2023,"Ulaanbaatar, Mongolia",120,54.6,45.4
+2023,"Brussels, Belgium",121,54.6,45.4
+2023,"Bangalore, India",122,54.6,45.4
+2023,"Portland, OR, United States",123,54.6,45.4
+2023,"Kamloops, Canada",124,54.6,45.4
+2023,"Amadora, Portugal",125,54.6,45.4
+2023,"Karachi, Pakistan",126,54.5,45.5
+2023,"Gurgaon, India",127,54.3,45.7
+2023,"London, United Kingdom",128,53.8,46.2
+2023,"Drogheda, Ireland",129,53.6,46.4
+2023,"Phoenix, AZ, United States",130,53.6,46.4
+2023,"Thessaloniki, Greece",131,53.5,46.5
+2023,"Ballarat, Australia",132,53.2,46.8
+2023,"Odessa (Odesa), Ukraine",133,53.1,46.9
+2023,"Bilbao, Spain",134,53,47
+2023,"London, Canada",135,53,47
+2023,"Rome, Italy",136,53,47
+2023,"Lyon, France",137,52.8,47.2
+2023,"Seattle, WA, United States",138,52.8,47.2
+2023,"Jakarta, Indonesia",139,52.7,47.3
+2023,"Dnipro, Ukraine",140,52.7,47.3
+2023,"Algiers, Algeria",141,52.6,47.4
+2023,"Miami, FL, United States",142,52.6,47.4
+2023,"Regina, Canada",143,52.5,47.5
+2023,"Ho Chi Minh City, Vietnam",144,52.5,47.5
+2023,"Los Angeles, CA, United States",145,52.2,47.8
+2023,"Dublin, Ireland",146,52.1,47.9
+2023,"Turin, Italy",147,52.1,47.9
+2023,"Lille, France",148,51.9,48.1
+2023,"Cebu, Philippines",149,51.9,48.1
+2023,"San Miguel de Allende, Mexico",150,51.8,48.2
+2023,"Wollongong, Australia",151,51.7,48.3
+2023,"Asuncion, Paraguay",152,51.6,48.4
+2023,"Orlando, FL, United States",153,51.5,48.5
+2023,"Tucson, AZ, United States",154,51.5,48.5
+2023,"Rennes, France",155,51.3,48.7
+2023,"Dallas, TX, United States",156,51.1,48.9
+2023,"Nanaimo, BC, Canada",157,50.9,49.1
+2023,"Bari, Italy",158,50.7,49.3
+2023,"Petaling Jaya, Malaysia",159,50.4,49.6
+2023,"Nottingham, United Kingdom",160,50.4,49.6
+2023,"Florianopolis, Brazil",161,50.2,49.8
+2023,"Toulouse, France",162,50.1,49.9
+2023,"Cairo, Egypt",163,50,50
+2023,"Rawalpindi, Pakistan",164,49.9,50.1
+2023,"Barcelona, Spain",165,49.8,50.2
+2023,"Hamilton, New Zealand",166,49.7,50.3
+2023,"Craiova, Romania",167,49.6,50.4
+2023,"Saskatoon, Canada",168,49.4,50.6
+2023,"Sacramento, CA, United States",169,49.4,50.6
+2023,"San Antonio, TX, United States",170,49.4,50.6
+2023,"Addis Ababa, Ethiopia",171,49.3,50.7
+2023,"New York, NY, United States",172,49.1,50.9
+2023,"Indore, India",173,48.8,51.2
+2023,"Milan, Italy",174,48.7,51.3
+2023,"Kharkiv, Ukraine",175,48.6,51.4
+2023,"Monterrey, Mexico",176,48.3,51.7
+2023,"Bali, Indonesia",177,48.2,51.8
+2023,"Auckland, New Zealand",178,48.2,51.8
+2023,"Cincinnati, OH, United States",179,48.1,51.9
+2023,"Newcastle, Australia",180,48.1,51.9
+2023,"Tunis, Tunisia",181,47.8,52.2
+2023,"Novosibirsk, Russia",182,47.7,52.3
+2023,"Panama City, Panama",183,47.7,52.3
+2023,"San Jose, CA, United States",184,47.7,52.3
+2023,"Bologna, Italy",185,47.6,52.4
+2023,"Istanbul, Turkey",186,47.5,52.5
+2023,"Liverpool, United Kingdom",187,47.5,52.5
+2023,"Moncton, Canada",188,47.3,52.7
+2023,"Honolulu, HI, United States",189,47.3,52.7
+2023,"Columbus, OH, United States",190,47.2,52.8
+2023,"Skopje, North Macedonia",191,46.9,53.1
+2023,"Bordeaux, France",192,46.8,53.2
+2023,"Charlotte, NC, United States",193,46.7,53.3
+2023,"Kolkata, India",194,46.6,53.4
+2023,"Gothenburg, Sweden",195,46.6,53.4
+2023,"Lucknow (Lakhnau), India",196,46.6,53.4
+2023,"Yekaterinburg, Russia",197,46.4,53.6
+2023,"Beirut, Lebanon",198,46.3,53.7
+2023,"Tampa, FL, United States",199,46.3,53.7
+2023,"Constanta, Romania",200,46.2,53.8
+2023,"Gold Coast, Australia",201,46.2,53.8
+2023,"Stockholm, Sweden",202,46.1,53.9
+2023,"Sarajevo, Bosnia And Herzegovina",203,45.9,54.1
+2023,"Edmonton, Canada",204,45.9,54.1
+2023,"St.Catharines, Canada",205,45.8,54.2
+2023,"Pattaya, Thailand",206,45.5,54.5
+2023,"Windsor, Canada",207,45.5,54.5
+2023,"Belfast, United Kingdom",208,45.4,54.6
+2023,"Glasgow, United Kingdom",209,45.3,54.7
+2023,"Denver, CO, United States",210,45.3,54.7
+2023,"Palermo, Italy",211,45.2,54.8
+2023,"Kiev (Kyiv), Ukraine",212,45.2,54.8
+2023,"Mumbai, India",213,45,55
+2023,"Brooklyn, NY, United States",214,45,55
+2023,"Kristiansand, Norway",215,44.8,55.2
+2023,"Frankfurt, Germany",216,44.7,55.3
+2023,"Cuenca, Ecuador",217,44.6,55.4
+2023,"Alexandria, Egypt",218,44.5,55.5
+2023,"Genoa, Italy",219,44.4,55.6
+2023,"Christchurch, New Zealand",220,44.3,55.7
+2023,"Bremen, Germany",221,44.3,55.7
+2023,"Melbourne, Australia",222,44,56
+2023,"Chisinau, Moldova",223,43.9,56.1
+2023,"Sheffield, United Kingdom",224,43.5,56.5
+2023,"Berlin, Germany",225,43.2,56.8
+2023,"Hyderabad, India",226,43.2,56.8
+2023,"Chandigarh, India",227,43.1,56.9
+2023,"Vaughan, Canada",228,42.9,57.1
+2023,"Leeds, United Kingdom",229,42.8,57.2
+2023,"Hamburg, Germany",230,42.6,57.4
+2023,"Mississauga, Canada",231,42.5,57.5
+2023,"Tirana, Albania",232,42.3,57.7
+2023,"Toronto, Canada",233,42.2,57.8
+2023,"Cologne, Germany",234,42,58
+2023,"Sofia, Bulgaria",235,41.9,58.1
+2023,"Bristol, United Kingdom",236,41.7,58.3
+2023,"Perth, Australia",237,41.7,58.3
+2023,"Colombo, Sri Lanka",238,41.6,58.4
+2023,"Leipzig, Germany",239,41.6,58.4
+2023,"Pune, India",240,41.6,58.4
+2023,"Iloilo, Philippines",241,41.5,58.5
+2023,"Kitchener, Canada",242,41.2,58.8
+2023,"Lodz, Poland",243,41.1,58.9
+2023,"Halifax, Canada",244,41,59
+2023,"Novi Sad, Serbia",245,40.9,59.1
+2023,"Hanover, Germany",246,40.9,59.1
+2023,"Bonn, Germany",247,40.5,59.5
+2023,"Bangkok, Thailand",248,40.5,59.5
+2023,"San Diego, CA, United States",249,40.4,59.6
+2023,"Austin, TX, United States",250,40.3,59.7
+2023,"Chennai, India",251,40.2,59.8
+2023,"Kochi, India",252,40,60
+2023,"Antwerp, Belgium",253,40,60
+2023,"Saint Petersburg, Russia",254,39.7,60.3
+2023,"Victoria, Canada",255,39.6,60.4
+2023,"Vancouver, Canada",256,39.6,60.4
+2023,"Limerick, Ireland",257,39.5,60.5
+2023,"Ankara, Turkey",258,39.5,60.5
+2023,"Boston, MA, United States",259,39.4,60.6
+2023,"Riverside, CA, United States",260,39.4,60.6
+2023,"Thiruvananthapuram, India",261,39,61
+2023,"Strasbourg, France",262,39,61
+2023,"Lviv, Ukraine",263,39,61
+2023,"Amman, Jordan",264,38.8,61.2
+2023,"Makati, Philippines",265,38.8,61.2
+2023,"Newcastle upon Tyne, United Kingdom",266,38.7,61.3
+2023,"Pittsburgh, PA, United States",267,38.5,61.5
+2023,"Riga, Latvia",268,38.5,61.5
+2023,"Florence, Italy",269,38.4,61.6
+2023,"Raleigh, NC, United States",270,38.3,61.7
+2023,"Kaunas, Lithuania",271,38.3,61.7
+2023,"Visakhapatnam, India",272,38.2,61.8
+2023,"Cardiff, United Kingdom",273,38,62
+2023,"Belgrade, Serbia",274,37.9,62.1
+2023,"Queretaro (Santiago de Querétaro), Mexico",275,37.6,62.4
+2023,"Hanoi, Vietnam",276,37.6,62.4
+2023,"Karlsruhe, Germany",277,37.5,62.5
+2023,"Brighton, United Kingdom",278,37.4,62.6
+2023,"Kingston, Canada",279,37.2,62.8
+2023,"Kathmandu, Nepal",280,37,63
+2023,"Navi Mumbai, India",281,36.9,63.1
+2023,"Moscow, Russia",282,36.8,63.2
+2023,"Jerusalem, Israel",283,36.8,63.2
+2023,"Calgary, Canada",284,36.7,63.3
+2023,"Varna, Bulgaria",285,36.7,63.3
+2023,"Lahore, Pakistan",286,36.4,63.6
+2023,"Cagliari, Italy",287,35.9,64.1
+2023,"Boise, ID, United States",288,35.7,64.3
+2023,"Cork, Ireland",289,35.6,64.4
+2023,"Brisbane, Australia",290,35.5,64.5
+2023,"Rabat, Morocco",291,35.4,64.6
+2023,"Dusseldorf, Germany",292,35.4,64.6
+2023,"Porto, Portugal",293,35.2,64.8
+2023,"Puerto Vallarta, Mexico",294,35.1,64.9
+2023,"Oulu, Finland",295,35.1,64.9
+2023,"Jaipur, India",296,35.1,64.9
+2023,"Guelph, Canada",297,34.9,65.1
+2023,"Nuremberg, Germany",298,34.9,65.1
+2023,"Budapest, Hungary",299,34.8,65.2
+2023,"Banja Luka, Bosnia And Herzegovina",300,34.4,65.6
+2023,"Madison, WI, United States",301,34.4,65.6
+2023,"Surat, India",302,34.2,65.8
+2023,"Oslo, Norway",303,34.1,65.9
+2023,"Astana (Nur-Sultan), Kazakhstan",304,33.9,66.1
+2023,"Sydney, Australia",305,33.9,66.1
+2023,"Aberdeen, United Kingdom",306,33.8,66.2
+2023,"Salt Lake City, UT, United States",307,33.7,66.3
+2023,"Lund, Sweden",308,33.5,66.5
+2023,"Penang, Malaysia",309,33.5,66.5
+2023,"Limassol, Cyprus",310,33.2,66.8
+2023,"Osaka, Japan",311,33.1,66.9
+2023,"Rotterdam, Netherlands",312,32.9,67.1
+2023,"Seville (Sevilla), Spain",313,32.7,67.3
+2023,"Wellington, New Zealand",314,32.4,67.6
+2023,"Hobart, Australia",315,32.3,67.7
+2023,"Guangzhou, China",316,32.3,67.7
+2023,"Split, Croatia",317,32.3,67.7
+2023,"Ahmedabad, India",318,32.1,67.9
+2023,"Havana, Cuba",319,32,68
+2023,"Amsterdam, Netherlands",320,32,68
+2023,"Valencia, Spain",321,31.8,68.2
+2023,"Vadodara, India",322,31.8,68.2
+2023,"Montreal, Canada",323,31.8,68.2
+2023,"Izmir, Turkey",324,31.4,68.6
+2023,"Stuttgart, Germany",325,31.4,68.6
+2023,"Islamabad, Pakistan",326,31.2,68.8
+2023,"Adelaide, Australia",327,31.1,68.9
+2023,"Dresden, Germany",328,31,69
+2023,"Edinburgh, United Kingdom",329,30.9,69.1
+2023,"Iasi, Romania",330,30.7,69.3
+2023,"Bratislava, Slovakia",331,30.6,69.4
+2023,"Shanghai, China",332,30.6,69.4
+2023,"Baku, Azerbaijan",333,30.5,69.5
+2023,"Nicosia, Cyprus",334,30.5,69.5
+2023,"Gdansk, Poland",335,30.5,69.5
+2023,"Kuwait City, Kuwait",336,30.4,69.6
+2023,"Freiburg im Breisgau, Germany",337,30.2,69.8
+2023,"Burlington, Canada",338,30.1,69.9
+2023,"Madrid, Spain",339,30.1,69.9
+2023,"Galway, Ireland",340,29.8,70.2
+2023,"Geneva, Switzerland",341,29.7,70.3
+2023,"Lisbon, Portugal",342,29.6,70.4
+2023,"Alicante, Spain",343,29.4,70.6
+2023,"Singapore, Singapore",344,29.2,70.8
+2023,"Bursa, Turkey",345,29.1,70.9
+2023,"Shenzhen, China",346,28.9,71.1
+2023,"Nizhny Novgorod, Russia",347,28.7,71.3
+2023,"Luxembourg, Luxembourg",348,28.7,71.3
+2023,"Beijing, China",349,28.4,71.6
+2023,"Ottawa, Canada",350,28.3,71.7
+2023,"Poznan, Poland",351,28.2,71.8
+2023,"Bucharest, Romania",352,28.2,71.8
+2023,"Markham, Canada",353,28.2,71.8
+2023,"Jeddah (Jiddah), Saudi Arabia",354,28.1,71.9
+2023,"Richmond Hill, Canada",355,28,72
+2023,"Vilnius, Lithuania",356,27.6,72.4
+2023,"Davao, Philippines",357,27.6,72.4
+2023,"Malaga, Spain",358,27.1,72.9
+2023,"Antalya, Turkey",359,27.1,72.9
+2023,"Trieste, Italy",360,27,73
+2023,"Tel Aviv-Yafo, Israel",361,27,73
+2023,"Brasov, Romania",362,26.9,73.1
+2023,"Vienna, Austria",363,26.9,73.1
+2023,"Riyadh, Saudi Arabia",364,26.8,73.2
+2023,"Copenhagen, Denmark",365,26.5,73.5
+2023,"Gent, Belgium",366,26.5,73.5
+2023,"Graz, Austria",367,26.3,73.7
+2023,"Wroclaw, Poland",368,26.3,73.7
+2023,"Lausanne, Switzerland",369,26.2,73.8
+2023,"Brno, Czech Republic",370,26.1,73.9
+2023,"Merida, Mexico",371,26.1,73.9
+2023,"Warsaw, Poland",372,26.1,73.9
+2023,"Mangalore, India",373,26.1,73.9
+2023,"Tbilisi, Georgia",374,25.9,74.1
+2023,"Oakville, Canada",375,25.8,74.2
+2023,"Krakow (Cracow), Poland",376,25.8,74.2
+2023,"Bergen, Norway",377,25.7,74.3
+2023,"Rijeka, Croatia",378,25.2,74.8
+2023,"Helsinki, Finland",379,24.8,75.2
+2023,"Aalborg, Denmark",380,24.8,75.2
+2023,"Seoul, South Korea",381,24.7,75.3
+2023,"Prague, Czech Republic",382,24.7,75.3
+2023,"Tallinn, Estonia",383,24.7,75.3
+2023,"Tokyo, Japan",384,24.6,75.4
+2023,"Chiang Mai, Thailand",385,24.5,75.5
+2023,"Timisoara, Romania",386,24.4,75.6
+2023,"Reykjavik, Iceland",387,23.8,76.2
+2023,"Coquitlam, Canada",388,23.3,76.7
+2023,"Stavanger, Norway",389,23.3,76.7
+2023,"Canberra, Australia",390,23.2,76.8
+2023,"Eindhoven, Netherlands",391,22.8,77.2
+2023,"Cluj-Napoca, Romania",392,22.5,77.5
+2023,"Zagreb, Croatia",393,22.4,77.6
+2023,"Tampere, Finland",394,22.3,77.7
+2023,"Irvine, CA, United States",395,22.3,77.7
+2023,"Groningen, Netherlands",396,22.1,77.9
+2023,"Yerevan, Armenia",397,21.9,78.1
+2023,"Ljubljana, Slovenia",398,21.8,78.2
+2023,"Basel, Switzerland",399,21.6,78.4
+2023,"Hong Kong, Hong Kong (China)",400,21.5,78.5
+2023,"The Hague (Den Haag), Netherlands",401,21.2,78.8
+2023,"Tartu, Estonia",402,21,79
+2023,"Muscat, Oman",403,20.1,79.9
+2023,"Trondheim, Norway",404,19.1,80.9
+2023,"Munich, Germany",405,18.8,81.2
+2023,"Zurich, Switzerland",406,18.3,81.7
+2023,"Eskisehir, Turkey",407,18.1,81.9
+2023,"Bern, Switzerland",408,17.7,82.3
+2023,"San Sebastian, Spain",409,16.9,83.1
+2023,"Dubai, United Arab Emirates",410,16.4,83.6
+2023,"Quebec City, Canada",411,16.1,83.9
+2023,"Sharjah, United Arab Emirates",412,15.9,84.1
+2023,"Ajman, United Arab Emirates",413,15.5,84.5
+2023,"Taipei, Taiwan",414,15.1,84.9
+2023,"Doha, Qatar",415,14.5,85.5
+2023,"Abu Dhabi, United Arab Emirates",416,11.2,88.8

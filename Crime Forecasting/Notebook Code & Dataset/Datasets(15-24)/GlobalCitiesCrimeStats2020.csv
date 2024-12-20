@@ -1,0 +1,375 @@
+Year,City_name,City_Rank,City_Crime_Index,City_Safety_Index
+2020,"Caracas, Venezuela",1,84.9,15.1
+2020,"Port Moresby, Papua New Guinea",2,83.6,16.4
+2020,"Pietermaritzburg, South Africa",3,82,18
+2020,"Pretoria, South Africa",4,81.6,18.4
+2020,"Durban, South Africa",5,80.7,19.3
+2020,"Johannesburg, South Africa",6,80.7,19.3
+2020,"San Pedro Sula, Honduras",7,80.3,19.7
+2020,"Rio de Janeiro, Brazil",8,77.4,22.6
+2020,"Recife, Brazil",9,76.8,23.2
+2020,"Salvador, Brazil",10,76.7,23.3
+2020,"Port Elizabeth, South Africa",11,76.6,23.4
+2020,"Porto Alegre, Brazil",12,76.5,23.5
+2020,"Kabul, Afghanistan",13,76.3,23.7
+2020,"Port of Spain, Trinidad And Tobago",14,76.2,23.8
+2020,"Memphis, TN, United States",15,74.8,25.2
+2020,"Baltimore, MD, United States",16,73.2,26.8
+2020,"Cape Town, South Africa",17,73,27
+2020,"Detroit, MI, United States",18,72.6,27.4
+2020,"San Salvador, El Salvador",19,71.7,28.3
+2020,"Windhoek, Namibia",20,71.2,28.8
+2020,"Sao Paulo, Brazil",21,71,29
+2020,"Albuquerque, NM, United States",22,70.7,29.3
+2020,"San Juan, Puerto Rico",23,69.5,30.5
+2020,"Saint Louis, MO, United States",24,69.2,30.8
+2020,"Lima, Peru",25,69,31
+2020,"Rosario, Argentina",26,68.6,31.4
+2020,"Mexico City, Mexico",27,68.4,31.6
+2020,"Kingston, Jamaica",28,67.8,32.2
+2020,"Almaty, Kazakhstan",29,67.6,32.4
+2020,"Campinas, Brazil",30,67.5,32.5
+2020,"Santo Domingo, Dominican Republic",31,67,33
+2020,"Damascus, Syria",32,66.4,33.6
+2020,"Milwaukee, WI, United States",33,65.6,34.4
+2020,"Kuala Lumpur, Malaysia",34,65.6,34.4
+2020,"Belo Horizonte, Brazil",35,65.5,34.5
+2020,"Baghdad, Iraq",36,65.5,34.5
+2020,"Puebla, Mexico",37,65.4,34.6
+2020,"Lagos, Nigeria",38,64.9,35.1
+2020,"Oakland, CA, United States",39,64.7,35.3
+2020,"Dhaka, Bangladesh",40,64.5,35.5
+2020,"Manila, Philippines",41,64.4,35.6
+2020,"Tripoli, Libya",42,64,36
+2020,"Tijuana, Mexico",43,64,36
+2020,"New Orleans, LA, United States",44,63.9,36.1
+2020,"Male, Maldives",45,63.8,36.2
+2020,"Curitiba, Brazil",46,63.7,36.3
+2020,"Cleveland, OH, United States",47,63.5,36.5
+2020,"Dar es Salaam, Tanzania",48,63.4,36.6
+2020,"Chicago, IL, United States",49,63.4,36.6
+2020,"Houston, TX, United States",50,63.3,36.7
+2020,"Quezon City, Philippines",51,62.7,37.3
+2020,"Guatemala City, Guatemala",52,62.6,37.4
+2020,"Guayaquil, Ecuador",53,62.6,37.4
+2020,"Guadalajara, Mexico",54,62.3,37.7
+2020,"Atlanta, GA, United States",55,62.2,37.8
+2020,"Brasilia, Brazil",56,61.7,38.3
+2020,"Bogota, Colombia",57,61.6,38.4
+2020,"Buenos Aires, Argentina",58,61.3,38.7
+2020,"Catania, Italy",59,61.3,38.7
+2020,"Anchorage, AK, United States",60,61.1,38.9
+2020,"Noida, India",61,60.4,39.6
+2020,"Philadelphia, PA, United States",62,60.3,39.7
+2020,"Nairobi, Kenya",63,60.1,39.9
+2020,"Surrey, Canada",64,59.8,40.2
+2020,"Kansas City, MO, United States",65,59.2,40.8
+2020,"Petaling Jaya, Malaysia",66,58.6,41.4
+2020,"Harare, Zimbabwe",67,58.5,41.5
+2020,"Red Deer, Canada",68,58.5,41.5
+2020,"Delhi, India",69,58.2,41.8
+2020,"Drogheda, Ireland",70,58.2,41.8
+2020,"Bradford, United Kingdom",71,57.6,42.4
+2020,"Birmingham, United Kingdom",72,57,43
+2020,"Marseille, France",73,57,43
+2020,"Montevideo, Uruguay",74,56.9,43.1
+2020,"Indianapolis, IN, United States",75,56.9,43.1
+2020,"Winnipeg, Canada",76,56.8,43.2
+2020,"Jacksonville, FL, United States",77,56.8,43.2
+2020,"Gurgaon, India",78,56.7,43.3
+2020,"Ulaanbaatar, Mongolia",79,56.4,43.6
+2020,"Florianopolis, Brazil",80,56.3,43.7
+2020,"Washington, DC, United States",81,56.3,43.7
+2020,"San Jose, Costa Rica",82,56.3,43.7
+2020,"Cordoba, Argentina",83,55.7,44.3
+2020,"Regina, Canada",84,55.5,44.5
+2020,"San Miguel de Allende, Mexico",85,55.4,44.6
+2020,"Darwin, Australia",86,55.3,44.7
+2020,"Quito, Ecuador",87,55.3,44.7
+2020,"Karachi, Pakistan",88,55.2,44.8
+2020,"Las Vegas, NV, United States",89,55.1,44.9
+2020,"Bilbao, Spain",90,54.9,45.1
+2020,"Cairns, Australia",91,54.9,45.1
+2020,"Brampton, Canada",92,54.8,45.2
+2020,"Casablanca, Morocco",93,54.7,45.3
+2020,"Johor Bahru, Malaysia",94,54.6,45.4
+2020,"Naples, Italy",95,53.8,46.2
+2020,"Phnom Penh, Cambodia",96,53.8,46.2
+2020,"Tehran, Iran",97,53.5,46.5
+2020,"Malmo, Sweden",98,53.5,46.5
+2020,"Jakarta, Indonesia",99,53.4,46.6
+2020,"Manchester, United Kingdom",100,53.3,46.7
+2020,"Ho Chi Minh City, Vietnam",101,53.1,46.9
+2020,"Townsville, Australia",102,53,47
+2020,"Odessa (Odesa), Ukraine",103,52.9,47.1
+2020,"Spokane, WA, United States",104,52.9,47.1
+2020,"San Francisco, CA, United States",105,52.8,47.2
+2020,"Miami, FL, United States",106,52.5,47.5
+2020,"London, United Kingdom",107,52.5,47.5
+2020,"Orlando, FL, United States",108,52.2,47.8
+2020,"Turin, Italy",109,52,48
+2020,"Rome, Italy",110,51.9,48.1
+2020,"Phoenix, AZ, United States",111,51.9,48.1
+2020,"Paris, France",112,51.8,48.2
+2020,"Monterrey, Mexico",113,51.7,48.3
+2020,"Lucknow (Lakhnau), India",114,51.7,48.3
+2020,"Algiers, Algeria",115,51.5,48.5
+2020,"Cebu, Philippines",116,51.4,48.6
+2020,"Dnipro, Ukraine",117,51.4,48.6
+2020,"Medellin, Colombia",118,51.3,48.7
+2020,"Louisville, KY, United States",119,51.3,48.7
+2020,"Santiago, Chile",120,50.9,49.1
+2020,"Palermo, Italy",121,50.9,49.1
+2020,"Pattaya, Thailand",122,50.6,49.4
+2020,"Brussels, Belgium",123,50,50
+2020,"Tucson, AZ, United States",124,49.9,50.1
+2020,"Sacramento, CA, United States",125,49.8,50.2
+2020,"Cairo, Egypt",126,49.6,50.4
+2020,"Tampa, FL, United States",127,49.5,50.5
+2020,"Dallas, TX, United States",128,49.4,50.6
+2020,"Asuncion, Paraguay",129,49.3,50.7
+2020,"Cincinnati, OH, United States",130,49.2,50.8
+2020,"Dublin, Ireland",131,49.2,50.8
+2020,"Cancun, Mexico",132,49,51
+2020,"Minneapolis, MN, United States",133,49,51
+2020,"Sarajevo, Bosnia And Herzegovina",134,48.9,51.1
+2020,"Hamilton, Canada",135,48.8,51.2
+2020,"Bangalore, India",136,48.7,51.3
+2020,"Athens, Greece",137,48.6,51.4
+2020,"Saskatoon, Canada",138,48.2,51.8
+2020,"Portland, OR, United States",139,47.9,52.1
+2020,"Kharkiv, Ukraine",140,47.7,52.3
+2020,"Istanbul, Turkey",141,47.5,52.5
+2020,"Kelowna, Canada",142,47.5,52.5
+2020,"Kolkata, India",143,47.2,52.8
+2020,"Kiev (Kyiv), Ukraine",144,47.2,52.8
+2020,"Panama City, Panama",145,47.2,52.8
+2020,"Yekaterinburg, Russia",146,47.1,52.9
+2020,"Nottingham, United Kingdom",147,47,53
+2020,"Novosibirsk, Russia",148,46.9,53.1
+2020,"San Antonio, TX, United States",149,46.6,53.4
+2020,"Addis Ababa, Ethiopia",150,46.5,53.5
+2020,"Seattle, WA, United States",151,46.5,53.5
+2020,"Bali, Indonesia",152,46.2,53.8
+2020,"Kuching, Malaysia",153,45.7,54.3
+2020,"London, Canada",154,45.5,54.5
+2020,"Auckland, New Zealand",155,45.5,54.5
+2020,"Gothenburg, Sweden",156,45.2,54.8
+2020,"Toulouse, France",157,45.1,54.9
+2020,"Kristiansand, Norway",158,45.1,54.9
+2020,"Los Angeles, CA, United States",159,45.1,54.9
+2020,"Omaha, NE, United States",160,44.8,55.2
+2020,"Skopje, North Macedonia",161,44.7,55.3
+2020,"Iloilo, Philippines",162,44.7,55.3
+2020,"Liverpool, United Kingdom",163,44.5,55.5
+2020,"New York, NY, United States",164,44.4,55.6
+2020,"Stockholm, Sweden",165,44.4,55.6
+2020,"Tunis, Tunisia",166,44.3,55.7
+2020,"Bologna, Italy",167,44.3,55.7
+2020,"Barcelona, Spain",168,44.3,55.7
+2020,"Beirut, Lebanon",169,44.2,55.8
+2020,"Chisinau, Moldova",170,44,56
+2020,"Hamburg, Germany",171,44,56
+2020,"Melbourne, Australia",172,43.9,56.1
+2020,"Gold Coast, Australia",173,43.9,56.1
+2020,"Richmond, VA, United States",174,43.8,56.2
+2020,"Glasgow, United Kingdom",175,43.5,56.5
+2020,"Limerick, Ireland",176,43.5,56.5
+2020,"Honolulu, HI, United States",177,43.4,56.6
+2020,"Charlotte, NC, United States",178,43.1,56.9
+2020,"Chandigarh, India",179,43,57
+2020,"Leeds, United Kingdom",180,43,57
+2020,"Perth, Australia",181,43,57
+2020,"Milan, Italy",182,42.6,57.4
+2020,"Lyon, France",183,42.5,57.5
+2020,"San Jose, CA, United States",184,42.5,57.5
+2020,"Lviv, Ukraine",185,42.5,57.5
+2020,"Mumbai, India",186,42.4,57.6
+2020,"Sofia, Bulgaria",187,42.2,57.8
+2020,"Nanaimo, BC, Canada",188,42.1,57.9
+2020,"Edmonton, Canada",189,42,58
+2020,"Mississauga, Canada",190,41.9,58.1
+2020,"Kochi, India",191,41.9,58.1
+2020,"Lodz, Poland",192,41.9,58.1
+2020,"Columbus, OH, United States",193,41.8,58.2
+2020,"Hyderabad, India",194,41.4,58.6
+2020,"Cologne, Germany",195,41.4,58.6
+2020,"Halifax, Canada",196,41.3,58.7
+2020,"Bangkok, Thailand",197,41.2,58.8
+2020,"Sheffield, United Kingdom",198,41.1,58.9
+2020,"Makati, Philippines",199,41,59
+2020,"Berlin, Germany",200,41,59
+2020,"Denver, CO, United States",201,40.9,59.1
+2020,"Guangzhou, China",202,40.7,59.3
+2020,"Novi Sad, Serbia",203,40.6,59.4
+2020,"Belfast, United Kingdom",204,40.6,59.4
+2020,"Moncton, Canada",205,40.6,59.4
+2020,"Moscow, Russia",206,40.5,59.5
+2020,"Thiruvananthapuram, India",207,40.5,59.5
+2020,"Ankara, Turkey",208,40.4,59.6
+2020,"Frankfurt, Germany",209,40.2,59.8
+2020,"Chennai, India",210,40.2,59.8
+2020,"Hanover, Germany",211,39.8,60.2
+2020,"Saint Petersburg, Russia",212,39.4,60.6
+2020,"Penang, Malaysia",213,39.2,60.8
+2020,"Tirana, Albania",214,39.2,60.8
+2020,"Colombo, Sri Lanka",215,39.1,60.9
+2020,"Christchurch, New Zealand",216,38.8,61.2
+2020,"Vaughan, Canada",217,38.8,61.2
+2020,"Amman, Jordan",218,38.6,61.4
+2020,"Thessaloniki, Greece",219,38.4,61.6
+2020,"Toronto, Canada",220,38.4,61.6
+2020,"Alexandria, Egypt",221,38.3,61.7
+2020,"Riga, Latvia",222,38.3,61.7
+2020,"Hanoi, Vietnam",223,38.2,61.8
+2020,"Pune, India",224,38,62
+2020,"Newcastle upon Tyne, United Kingdom",225,38,62
+2020,"Riverside, CA, United States",226,38,62
+2020,"Newcastle, Australia",227,37.8,62.2
+2020,"Kaunas, Lithuania",228,37.6,62.4
+2020,"Kitchener, Canada",229,37.5,62.5
+2020,"Lahore, Pakistan",230,37.4,62.6
+2020,"Florence, Italy",231,37.4,62.6
+2020,"Belgrade, Serbia",232,37.4,62.6
+2020,"Cuenca, Ecuador",233,37.2,62.8
+2020,"Bristol, United Kingdom",234,36.9,63.1
+2020,"Porto, Portugal",235,36.9,63.1
+2020,"Oslo, Norway",236,36.6,63.4
+2020,"Karlsruhe, Germany",237,36.6,63.4
+2020,"Boise, ID, United States",238,36.5,63.5
+2020,"Coimbatore, India",239,36.5,63.5
+2020,"Pittsburgh, PA, United States",240,36.5,63.5
+2020,"Budapest, Hungary",241,36.3,63.7
+2020,"Shanghai, China",242,36.3,63.7
+2020,"Brighton, United Kingdom",243,36.3,63.7
+2020,"Vancouver, Canada",244,36.3,63.7
+2020,"San Diego, CA, United States",245,36.3,63.7
+2020,"Queretaro (Santiago de Querétaro), Mexico",246,36.2,63.8
+2020,"Katowice, Poland",247,36.2,63.8
+2020,"Cardiff, United Kingdom",248,36.1,63.9
+2020,"Aberdeen, United Kingdom",249,35.9,64.1
+2020,"Boston, MA, United States",250,35.6,64.4
+2020,"Austin, TX, United States",251,35.5,64.5
+2020,"Rotterdam, Netherlands",252,35.5,64.5
+2020,"Windsor, Canada",253,35.4,64.6
+2020,"Jerusalem, Israel",254,34.9,65.1
+2020,"Antwerp, Belgium",255,34.6,65.4
+2020,"Beijing, China",256,34.5,65.5
+2020,"Navi Mumbai, India",257,34.5,65.5
+2020,"Puerto Vallarta, Mexico",258,34.4,65.6
+2020,"Banja Luka, Bosnia And Herzegovina",259,34.2,65.8
+2020,"Kathmandu, Nepal",260,34.1,65.9
+2020,"Split, Croatia",261,34.1,65.9
+2020,"Surat, India",262,33.9,66.1
+2020,"Sydney, Australia",263,33.9,66.1
+2020,"Jaipur, India",264,33.8,66.2
+2020,"Brisbane, Australia",265,33.8,66.2
+2020,"Lund, Sweden",266,33.5,66.5
+2020,"Hobart, Australia",267,33.5,66.5
+2020,"Amsterdam, Netherlands",268,33.1,66.9
+2020,"Shenzhen, China",269,33,67
+2020,"Nuremberg, Germany",270,32.9,67.1
+2020,"Ad Dammam, Saudi Arabia",271,32.8,67.2
+2020,"Kuwait City, Kuwait",272,32.6,67.4
+2020,"Calgary, Canada",273,32.2,67.8
+2020,"Victoria, Canada",274,32,68
+2020,"Cork, Ireland",275,31.9,68.1
+2020,"Raleigh, NC, United States",276,31.9,68.1
+2020,"Ahmedabad, India",277,31.8,68.2
+2020,"Oulu, Finland",278,31.1,68.9
+2020,"Varna, Bulgaria",279,31,69
+2020,"El Paso, TX, United States",280,31,69
+2020,"Dusseldorf, Germany",281,30.9,69.1
+2020,"Salt Lake City, UT, United States",282,30.8,69.2
+2020,"Limassol, Cyprus",283,30.6,69.4
+2020,"Singapore, Singapore",284,30.6,69.4
+2020,"Edinburgh, United Kingdom",285,30.5,69.5
+2020,"Jeddah (Jiddah), Saudi Arabia",286,30.4,69.6
+2020,"Madrid, Spain",287,30.2,69.8
+2020,"Bratislava, Slovakia",288,30.2,69.8
+2020,"Vadodara, India",289,30.2,69.8
+2020,"Baku, Azerbaijan",290,30.1,69.9
+2020,"Nicosia, Cyprus",291,29.9,70.1
+2020,"Madison, WI, United States",292,29.7,70.3
+2020,"Guelph, Canada",293,29.7,70.3
+2020,"Nizhny Novgorod, Russia",294,29.6,70.4
+2020,"Luxembourg, Luxembourg",295,29.1,70.9
+2020,"Seville (Sevilla), Spain",296,29.1,70.9
+2020,"Galway, Ireland",297,29,71
+2020,"Lausanne, Switzerland",298,28.9,71.1
+2020,"Montreal, Canada",299,28.9,71.1
+2020,"Adelaide, Australia",300,28.7,71.3
+2020,"Islamabad, Pakistan",301,28.6,71.4
+2020,"Wellington, New Zealand",302,28.6,71.4
+2020,"Geneva, Switzerland",303,28.5,71.5
+2020,"Utrecht, Netherlands",304,28.5,71.5
+2020,"Bergen, Norway",305,28.4,71.6
+2020,"Davao, Philippines",306,28.1,71.9
+2020,"Gdansk, Poland",307,28,72
+2020,"Oakville, Canada",308,27.7,72.3
+2020,"Vilnius, Lithuania",309,27.6,72.4
+2020,"Lisbon, Portugal",310,27.6,72.4
+2020,"Seoul, South Korea",311,27.6,72.4
+2020,"Bucharest, Romania",312,27.4,72.6
+2020,"Iasi, Romania",313,27.3,72.7
+2020,"Wroclaw, Poland",314,27.1,72.9
+2020,"Izmir, Turkey",315,27.1,72.9
+2020,"Merida, Mexico",316,27,73
+2020,"Riyadh, Saudi Arabia",317,26.9,73.1
+2020,"Antalya, Turkey",318,26.6,73.4
+2020,"Stuttgart, Germany",319,26.5,73.5
+2020,"Krakow (Cracow), Poland",320,26.4,73.6
+2020,"Brno, Czech Republic",321,26.3,73.7
+2020,"Osaka, Japan",322,26,74
+2020,"Bursa, Turkey",323,25.9,74.1
+2020,"Warsaw, Poland",324,25.5,74.5
+2020,"Tel Aviv-Yafo, Israel",325,25.5,74.5
+2020,"Haifa, Israel",326,25.4,74.6
+2020,"Valencia, Spain",327,25.1,74.9
+2020,"The Hague (Den Haag), Netherlands",328,25.1,74.9
+2020,"Eindhoven, Netherlands",329,25.1,74.9
+2020,"Gent, Belgium",330,24.9,75.1
+2020,"Aalborg, Denmark",331,24.8,75.2
+2020,"Manama, Bahrain",332,24.6,75.4
+2020,"Ottawa, Canada",333,24.5,75.5
+2020,"Prague, Czech Republic",334,24.5,75.5
+2020,"Malaga, Spain",335,24.5,75.5
+2020,"Minsk, Belarus",336,24.3,75.7
+2020,"Poznan, Poland",337,24.2,75.8
+2020,"Mangalore, India",338,24.1,75.9
+2020,"Timisoara, Romania",339,24,76
+2020,"Copenhagen, Denmark",340,23.5,76.5
+2020,"Stavanger, Norway",341,23.4,76.6
+2020,"Vienna, Austria",342,23,77
+2020,"Burlington, Canada",343,22.9,77.1
+2020,"Tokyo, Japan",344,22.6,77.4
+2020,"Brasov, Romania",345,22.4,77.6
+2020,"Zagreb, Croatia",346,22.4,77.6
+2020,"Tallinn, Estonia",347,22.3,77.7
+2020,"Chiang Mai, Thailand",348,22.2,77.8
+2020,"Helsinki, Finland",349,22.2,77.8
+2020,"Muscat, Oman",350,22.2,77.8
+2020,"Reykjavik, Iceland",351,22,78
+2020,"Yerevan, Armenia",352,22,78
+2020,"Ljubljana, Slovenia",353,21.2,78.8
+2020,"Groningen, Netherlands",354,21,79
+2020,"Tampere, Finland",355,20.9,79.1
+2020,"Hong Kong, Hong Kong (China)",356,20.7,79.3
+2020,"Trondheim, Norway",357,20.6,79.4
+2020,"Tartu, Estonia",358,20.6,79.4
+2020,"Rijeka, Croatia",359,20.5,79.5
+2020,"Tbilisi, Georgia",360,20.5,79.5
+2020,"Markham, Canada",361,20.3,79.7
+2020,"Cluj-Napoca, Romania",362,19.7,80.3
+2020,"Basel, Switzerland",363,19.3,80.7
+2020,"Canberra, Australia",364,19.3,80.7
+2020,"Irvine, CA, United States",365,18.3,81.7
+2020,"Bern, Switzerland",366,18,82
+2020,"Eskisehir, Turkey",367,17.5,82.5
+2020,"Munich, Germany",368,17.4,82.6
+2020,"Dubai, United Arab Emirates",369,17,83
+2020,"Zurich, Switzerland",370,16.8,83.2
+2020,"Quebec City, Canada",371,14.6,85.4
+2020,"Taipei, Taiwan",372,14.2,85.8
+2020,"Doha, Qatar",373,11.5,88.5
+2020,"Abu Dhabi, United Arab Emirates",374,11.3,88.7

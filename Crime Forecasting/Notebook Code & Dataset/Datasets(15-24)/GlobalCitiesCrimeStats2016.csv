@@ -1,0 +1,343 @@
+Year,City_name,City_Rank,City_Crime_Index,City_Safety_Index
+2016,"San Pedro Sula, Honduras",1,88.2,11.8
+2016,"Pietermaritzburg, South Africa",2,87.1,12.9
+2016,"Fortaleza, Brazil",3,85.7,14.3
+2016,"Johannesburg, South Africa",4,83.4,16.6
+2016,"Pretoria, South Africa",5,80.8,19.2
+2016,"Durban, South Africa",6,79.9,20.1
+2016,"Rio de Janeiro, Brazil",7,77.2,22.8
+2016,"San Salvador, El Salvador",8,77,23
+2016,"Detroit, MI, United States",9,76.2,23.8
+2016,"Porto Alegre, Brazil",10,76,24
+2016,"Sao Paulo, Brazil",11,75.9,24.1
+2016,"Rochester, NY, United States",12,74.9,25.1
+2016,"Gurgaon, India",13,74.1,25.9
+2016,"Lagos, Nigeria",14,73.4,26.6
+2016,"Santo Domingo, Dominican Republic",15,73.3,26.7
+2016,"Kuala Lumpur, Malaysia",16,73.2,26.8
+2016,"Petaling Jaya, Malaysia",17,72.9,27.1
+2016,"Port Elizabeth, South Africa",18,72.6,27.4
+2016,"San Juan, Puerto Rico",19,72.3,27.7
+2016,"Cape Town, South Africa",20,72,28
+2016,"Saint Louis, MO, United States",21,71.4,28.6
+2016,"Quezon City, Philippines",22,70.4,29.6
+2016,"Dhaka, Bangladesh",23,70.4,29.6
+2016,"Johor Bahru, Malaysia",24,70.3,29.7
+2016,"Lima, Peru",25,70.1,29.9
+2016,"Karachi, Pakistan",26,69.7,30.3
+2016,"Kingston, Jamaica",27,69.2,30.8
+2016,"Belo Horizonte, Brazil",28,68.8,31.2
+2016,"Casablanca, Morocco",29,67.8,32.2
+2016,"Chicago, IL, United States",30,67.3,32.7
+2016,"New Orleans, LA, United States",31,66.4,33.6
+2016,"Dar es Salaam, Tanzania",32,66.4,33.6
+2016,"Male, Maldives",33,66.3,33.7
+2016,"Campinas, Brazil",34,66.1,33.9
+2016,"Mexico City, Mexico",35,66,34
+2016,"Windhoek, Namibia",36,66,34
+2016,"Nairobi, Kenya",37,65.4,34.6
+2016,"Baghdad, Iraq",38,65.4,34.6
+2016,"Brasilia, Brazil",39,65.3,34.7
+2016,"Curitiba, Brazil",40,65.2,34.8
+2016,"Bari, Italy",41,64.7,35.3
+2016,"Philadelphia, PA, United States",42,64.3,35.7
+2016,"Surrey, Canada",43,64.3,35.7
+2016,"Naples, Italy",44,64.1,35.9
+2016,"Atlanta, GA, United States",45,64,36
+2016,"Albuquerque, NM, United States",46,64,36
+2016,"Indore, India",47,63.9,36.1
+2016,"Marseille, France",48,63.7,36.3
+2016,"Zamboanga, Philippines",49,62.8,37.2
+2016,"Baltimore, MD, United States",50,62.6,37.4
+2016,"Guayaquil, Ecuador",51,62.5,37.5
+2016,"Jacksonville, FL, United States",52,62.3,37.7
+2016,"Buenos Aires, Argentina",53,62.2,37.8
+2016,"Kota Kinabalu, Malaysia",54,62,38
+2016,"Bacolod, Philippines",55,61.9,38.1
+2016,"Guatemala City, Guatemala",56,61.9,38.1
+2016,"Cleveland, OH, United States",57,61,39
+2016,"Miami, FL, United States",58,60.7,39.3
+2016,"Pattaya, Thailand",59,60.6,39.4
+2016,"Delhi, India",60,60.3,39.7
+2016,"Puebla, Mexico",61,60.3,39.7
+2016,"Louisville, KY, United States",62,60.1,39.9
+2016,"Washington, DC, United States",63,59.7,40.3
+2016,"Turin, Italy",64,59.5,40.5
+2016,"Bogota, Colombia",65,59.3,40.7
+2016,"Houston, TX, United States",66,59.3,40.7
+2016,"Florianopolis, Brazil",67,59.2,40.8
+2016,"Phoenix, AZ, United States",68,59.1,40.9
+2016,"Ho Chi Minh City, Vietnam",69,58.6,41.4
+2016,"Goiania, Brazil",70,58.5,41.5
+2016,"Catania, Italy",71,58.5,41.5
+2016,"San Jose, CA, United States",72,58.4,41.6
+2016,"Cairo, Egypt",73,58.3,41.7
+2016,"Malmo, Sweden",74,57.9,42.1
+2016,"Noida, India",75,57.9,42.1
+2016,"San Jose, Costa Rica",76,57.9,42.1
+2016,"Alexandria, Egypt",77,57.8,42.2
+2016,"Las Vegas, NV, United States",78,57.7,42.3
+2016,"Montevideo, Uruguay",79,57.6,42.4
+2016,"Penang, Malaysia",80,57.6,42.4
+2016,"Quito, Ecuador",81,57.6,42.4
+2016,"Harare, Zimbabwe",82,57.2,42.8
+2016,"Tehran, Iran",83,57.1,42.9
+2016,"Nottingham, United Kingdom",84,57,43
+2016,"Brampton, Canada",85,56.6,43.4
+2016,"Lahore, Pakistan",86,56.5,43.5
+2016,"Ulaanbaatar, Mongolia",87,56.5,43.5
+2016,"Milwaukee, WI, United States",88,56.5,43.5
+2016,"Medellin, Colombia",89,56.4,43.6
+2016,"Kansas City, MO, United States",90,56.3,43.7
+2016,"Rome, Italy",91,55.9,44.1
+2016,"Tijuana, Mexico",92,55.3,44.7
+2016,"London, Canada",93,55.2,44.8
+2016,"Tripoli, Libya",94,54.9,45.1
+2016,"Brussels, Belgium",95,54.5,45.5
+2016,"Milton Keynes, United Kingdom",96,54.5,45.5
+2016,"Dublin, Ireland",97,54.4,45.6
+2016,"Los Angeles, CA, United States",98,54.2,45.8
+2016,"Paris, France",99,54.1,45.9
+2016,"Guadalajara, Mexico",100,53.5,46.5
+2016,"Orlando, FL, United States",101,53.4,46.6
+2016,"Kharkiv, Ukraine",102,53.2,46.8
+2016,"Lucknow (Lakhnau), India",103,53.1,46.9
+2016,"Iloilo, Philippines",104,52.5,47.5
+2016,"Manchester, United Kingdom",105,52.4,47.6
+2016,"Tucson, AZ, United States",106,52.4,47.6
+2016,"Winnipeg, Canada",107,51.5,48.5
+2016,"Monterrey, Mexico",108,51.4,48.6
+2016,"Birmingham, United Kingdom",109,51.4,48.6
+2016,"Beirut, Lebanon",110,51.1,48.9
+2016,"Cincinnati, OH, United States",111,51.1,48.9
+2016,"Mumbai, India",112,51,49
+2016,"Sarajevo, Bosnia And Herzegovina",113,51,49
+2016,"New York, NY, United States",114,50.9,49.1
+2016,"Spokane, WA, United States",115,50.9,49.1
+2016,"Navi Mumbai, India",116,50.8,49.2
+2016,"Podgorica, Montenegro",117,50.5,49.5
+2016,"Jakarta, Indonesia",118,50.4,49.6
+2016,"Bangalore, India",119,50,50
+2016,"Novi Sad, Serbia",120,49.9,50.1
+2016,"Milan, Italy",121,49.8,50.2
+2016,"Almaty, Kazakhstan",122,49.7,50.3
+2016,"Hanoi, Vietnam",123,49.6,50.4
+2016,"Damascus, Syria",124,49.4,50.6
+2016,"Yekaterinburg, Russia",125,49.4,50.6
+2016,"Saskatoon, Canada",126,49.3,50.7
+2016,"Amman, Jordan",127,49.3,50.7
+2016,"Manila, Philippines",128,49.2,50.8
+2016,"Sofia, Bulgaria",129,49.1,50.9
+2016,"Palermo, Italy",130,49,51
+2016,"Kolkata, India",131,48.7,51.3
+2016,"Athens, Greece",132,48.7,51.3
+2016,"Hamburg, Germany",133,48.6,51.4
+2016,"London, United Kingdom",134,48.4,51.6
+2016,"Accra, Ghana",135,48.3,51.7
+2016,"Gold Coast, Australia",136,48.1,51.9
+2016,"Guanajuato, Mexico",137,47.9,52.1
+2016,"San Francisco, CA, United States",138,47.9,52.1
+2016,"Glasgow, United Kingdom",139,47.9,52.1
+2016,"Colombo, Sri Lanka",140,47.9,52.1
+2016,"Yogyakarta, Indonesia",141,47.8,52.2
+2016,"Panama City, Panama",142,47.8,52.2
+2016,"Tirana, Albania",143,47.7,52.3
+2016,"Leeds, United Kingdom",144,47.6,52.4
+2016,"San Antonio, TX, United States",145,47.6,52.4
+2016,"Porto, Portugal",146,47.6,52.4
+2016,"Perth, Australia",147,47.5,52.5
+2016,"Portland, OR, United States",148,47.5,52.5
+2016,"Cebu, Philippines",149,47.4,52.6
+2016,"Frankfurt, Germany",150,47.2,52.8
+2016,"Santiago, Chile",151,46.9,53.1
+2016,"Pune, India",152,46.6,53.4
+2016,"Chisinau, Moldova",153,46.6,53.4
+2016,"Istanbul, Turkey",154,46.4,53.6
+2016,"Moscow, Russia",155,46.4,53.6
+2016,"Ankara, Turkey",156,46.2,53.8
+2016,"Tampa, FL, United States",157,46.1,53.9
+2016,"Gothenburg, Sweden",158,45.8,54.2
+2016,"Charlotte, NC, United States",159,45.8,54.2
+2016,"Phnom Penh, Cambodia",160,45.5,54.5
+2016,"Regina, Canada",161,45.5,54.5
+2016,"Bangkok, Thailand",162,45.3,54.7
+2016,"Chennai, India",163,45.1,54.9
+2016,"Medan, Indonesia",164,45,55
+2016,"Antwerp, Belgium",165,44.8,55.2
+2016,"Saint Petersburg, Russia",166,44.8,55.2
+2016,"Hamilton, Canada",167,44.7,55.3
+2016,"Newcastle upon Tyne, United Kingdom",168,44.7,55.3
+2016,"Rotterdam, Netherlands",169,44.6,55.4
+2016,"Novosibirsk, Russia",170,44.5,55.5
+2016,"Belfast, United Kingdom",171,44,56
+2016,"Lausanne, Switzerland",172,43.8,56.2
+2016,"Bordeaux, France",173,43.6,56.4
+2016,"Bologna, Italy",174,43.5,56.5
+2016,"Sydney, Australia",175,43.2,56.8
+2016,"Pittsburgh, PA, United States",176,43.2,56.8
+2016,"Bremen, Germany",177,43.2,56.8
+2016,"Auckland, New Zealand",178,43.1,56.9
+2016,"Ad Dammam, Saudi Arabia",179,43,57
+2016,"Stockholm, Sweden",180,43,57
+2016,"Sacramento, CA, United States",181,42.9,57.1
+2016,"Minneapolis, MN, United States",182,42.7,57.3
+2016,"Hyderabad, India",183,42.7,57.3
+2016,"Cagayan de Oro City, Philippines",184,42.5,57.5
+2016,"Coimbatore, India",185,42.3,57.7
+2016,"Skopje, North Macedonia",186,42.3,57.7
+2016,"Cagliari, Italy",187,42.1,57.9
+2016,"Lviv, Ukraine",188,42.1,57.9
+2016,"Halifax, Canada",189,42,58
+2016,"Barcelona, Spain",190,41.8,58.2
+2016,"Kiev (Kyiv), Ukraine",191,41.4,58.6
+2016,"Limassol, Cyprus",192,41.4,58.6
+2016,"Austin, TX, United States",193,41.2,58.8
+2016,"Cancun, Mexico",194,41.2,58.8
+2016,"Budapest, Hungary",195,41.1,58.9
+2016,"Belgrade, Serbia",196,40.6,59.4
+2016,"Cairns, Australia",197,40.5,59.5
+2016,"Seattle, WA, United States",198,40.5,59.5
+2016,"Adelaide, Australia",199,40.4,59.6
+2016,"Liverpool, United Kingdom",200,40.3,59.7
+2016,"Toulouse, France",201,40.3,59.7
+2016,"Edmonton, Canada",202,40.2,59.8
+2016,"Cardiff, United Kingdom",203,40.1,59.9
+2016,"Guangzhou, China",204,39.9,60.1
+2016,"Boston, MA, United States",205,39.9,60.1
+2016,"Christchurch, New Zealand",206,39.6,60.4
+2016,"Oklahoma City, OK, United States",207,39.5,60.5
+2016,"Riga, Latvia",208,39.4,60.6
+2016,"Kathmandu, Nepal",209,39.4,60.6
+2016,"Islamabad, Pakistan",210,39,61
+2016,"Lyon, France",211,38.9,61.1
+2016,"Vancouver, Canada",212,38.9,61.1
+2016,"Cologne, Germany",213,38.8,61.2
+2016,"Ashgabat, Turkmenistan",214,38.7,61.3
+2016,"Berlin, Germany",215,38.5,61.5
+2016,"Columbus, OH, United States",216,38.5,61.5
+2016,"Lodz, Poland",217,38.1,61.9
+2016,"Montreal, Canada",218,38,62
+2016,"Oslo, Norway",219,38,62
+2016,"Vilnius, Lithuania",220,38,62
+2016,"Chandigarh, India",221,37.8,62.2
+2016,"San Diego, CA, United States",222,37.8,62.2
+2016,"Dallas, TX, United States",223,37.8,62.2
+2016,"Queretaro (Santiago de Querétaro), Mexico",224,37.6,62.4
+2016,"Dusseldorf, Germany",225,36.9,63.1
+2016,"Constanta, Romania",226,36.9,63.1
+2016,"Beijing, China",227,36.6,63.4
+2016,"Oulu, Finland",228,36.5,63.5
+2016,"Victoria, Canada",229,36.5,63.5
+2016,"Brisbane, Australia",230,36.1,63.9
+2016,"Amsterdam, Netherlands",231,36.1,63.9
+2016,"Mississauga, Canada",232,35.8,64.2
+2016,"Melbourne, Australia",233,35.8,64.2
+2016,"Krakow (Cracow), Poland",234,35.7,64.3
+2016,"Geneva, Switzerland",235,35.5,64.5
+2016,"Shenzhen, China",236,35.4,64.6
+2016,"Thiruvananthapuram, India",237,34.9,65.1
+2016,"Lisbon, Portugal",238,34.8,65.2
+2016,"The Hague (Den Haag), Netherlands",239,34.8,65.2
+2016,"Cork, Ireland",240,34.7,65.3
+2016,"Kuwait City, Kuwait",241,34.6,65.4
+2016,"Denver, CO, United States",242,34.3,65.7
+2016,"Wroclaw, Poland",243,34.1,65.9
+2016,"Bratislava, Slovakia",244,34,66
+2016,"Toronto, Canada",245,33.6,66.4
+2016,"Brighton, United Kingdom",246,33.1,66.9
+2016,"Jeddah (Jiddah), Saudi Arabia",247,33.1,66.9
+2016,"Bali, Indonesia",248,33.1,66.9
+2016,"Yerevan, Armenia",249,33.1,66.9
+2016,"Baku, Azerbaijan",250,32.5,67.5
+2016,"Galway, Ireland",251,32.4,67.6
+2016,"Calgary, Canada",252,32.4,67.6
+2016,"Iasi, Romania",253,32.3,67.7
+2016,"Bandar Seri Begawan, Brunei",254,32.3,67.7
+2016,"Shanghai, China",255,31.8,68.2
+2016,"Madrid, Spain",256,31.7,68.3
+2016,"Zagreb, Croatia",257,31.5,68.5
+2016,"Tel Aviv-Yafo, Israel",258,31.4,68.6
+2016,"Helsinki, Finland",259,31.3,68.7
+2016,"Kochi, India",260,31.3,68.7
+2016,"Aalborg, Denmark",261,31.2,68.8
+2016,"Thessaloniki, Greece",262,31.1,68.9
+2016,"Wellington, New Zealand",263,31.1,68.9
+2016,"Prague, Czech Republic",264,31.1,68.9
+2016,"Izmir, Turkey",265,30.8,69.2
+2016,"Banja Luka, Bosnia And Herzegovina",266,30.6,69.4
+2016,"Bucharest, Romania",267,30.3,69.7
+2016,"Poznan, Poland",268,30.2,69.8
+2016,"Sliema, Malta",269,30.1,69.9
+2016,"Madison, WI, United States",270,30,70
+2016,"Tunis, Tunisia",271,30,70
+2016,"Florence, Italy",272,29.9,70.1
+2016,"Brno, Czech Republic",273,29.9,70.1
+2016,"Valencia, Spain",274,29.6,70.4
+2016,"Puerto Vallarta, Mexico",275,29.4,70.6
+2016,"Chiang Mai, Thailand",276,29.2,70.8
+2016,"Nagpur, India",277,29.2,70.8
+2016,"Gent, Belgium",278,28.9,71.1
+2016,"Edinburgh, United Kingdom",279,28.6,71.4
+2016,"Visakhapatnam, India",280,28.4,71.6
+2016,"Ahmedabad, India",281,28.1,71.9
+2016,"Ljubljana, Slovenia",282,28.1,71.9
+2016,"Vienna, Austria",283,28,72
+2016,"Canberra, Australia",284,28,72
+2016,"Malaga, Spain",285,28,72
+2016,"Muscat, Oman",286,27.9,72.1
+2016,"Salt Lake City, UT, United States",287,27.6,72.4
+2016,"Gdansk, Poland",288,27.5,72.5
+2016,"Seville (Sevilla), Spain",289,27.4,72.6
+2016,"Addis Ababa, Ethiopia",290,27.1,72.9
+2016,"Antalya, Turkey",291,27.1,72.9
+2016,"Split, Croatia",292,27,73
+2016,"Nicosia, Cyprus",293,26.9,73.1
+2016,"Bursa, Turkey",294,26.8,73.2
+2016,"Copenhagen, Denmark",295,26.8,73.2
+2016,"Davao, Philippines",296,26.7,73.3
+2016,"Hobart, Australia",297,26.5,73.5
+2016,"Jerusalem, Israel",298,26.4,73.6
+2016,"Warsaw, Poland",299,26.3,73.7
+2016,"Tallinn, Estonia",300,26.2,73.8
+2016,"Surat, India",301,26.2,73.8
+2016,"Aguascalientes, Mexico",302,26,74
+2016,"Valenzuela, Philippines",303,25.7,74.3
+2016,"Reykjavik, Iceland",304,25.4,74.6
+2016,"Minsk, Belarus",305,24.7,75.3
+2016,"Busan, South Korea",306,24.5,75.5
+2016,"Quebec City, Canada",307,24.1,75.9
+2016,"Stavanger, Norway",308,23.5,76.5
+2016,"Timisoara, Romania",309,23.2,76.8
+2016,"Haifa, Israel",310,23.2,76.8
+2016,"Stuttgart, Germany",311,23.2,76.8
+2016,"Vadodara, India",312,23,77
+2016,"Dubai, United Arab Emirates",313,22.8,77.2
+2016,"Doha, Qatar",314,22.8,77.2
+2016,"Ottawa, Canada",315,22.7,77.3
+2016,"Rijeka, Croatia",316,22.7,77.3
+2016,"Tbilisi, Georgia",317,22.2,77.8
+2016,"Makati, Philippines",318,22.1,77.9
+2016,"Corfu, Greece",319,22,78
+2016,"Cluj-Napoca, Romania",320,21.4,78.6
+2016,"Coimbra, Portugal",321,20.9,79.1
+2016,"Aarhus, Denmark",322,20.9,79.1
+2016,"Hong Kong, Hong Kong (China)",323,20.8,79.2
+2016,"Merida, Mexico",324,20.8,79.2
+2016,"Trieste, Italy",325,20.7,79.3
+2016,"Tokyo, Japan",326,20.3,79.7
+2016,"Trondheim, Norway",327,20.2,79.8
+2016,"Basel, Switzerland",328,19.8,80.2
+2016,"Zurich, Switzerland",329,19.8,80.2
+2016,"Taipei, Taiwan",330,19.7,80.3
+2016,"Riyadh, Saudi Arabia",331,19.7,80.3
+2016,"Bergen, Norway",332,19.5,80.5
+2016,"Bern, Switzerland",333,19,81
+2016,"Osaka, Japan",334,18.1,81.9
+2016,"Boise, ID, United States",335,17.6,82.4
+2016,"Abu Dhabi, United Arab Emirates",336,16.7,83.3
+2016,"Singapore, Singapore",337,15.8,84.2
+2016,"Munich, Germany",338,15.7,84.3
+2016,"Eskisehir, Turkey",339,14.4,85.6
+2016,"Seoul, South Korea",340,14.3,85.7
+2016,"Kyoto, Japan",341,10.6,89.4
+2016,"Incheon, South Korea",342,9.1,90.9

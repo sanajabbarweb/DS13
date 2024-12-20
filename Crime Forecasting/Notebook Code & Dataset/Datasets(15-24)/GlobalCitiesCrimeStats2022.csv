@@ -1,0 +1,460 @@
+Year,City_name,City_Rank,City_Crime_Index,City_Safety_Index
+2022,"Caracas, Venezuela",1,84.3,15.7
+2022,"Port Moresby, Papua New Guinea",2,82.2,17.8
+2022,"Pretoria, South Africa",3,82,18
+2022,"Johannesburg, South Africa",4,80.7,19.3
+2022,"San Pedro Sula, Honduras",5,80.7,19.3
+2022,"Durban, South Africa",6,80.6,19.4
+2022,"Fortaleza, Brazil",7,78.2,21.8
+2022,"Kabul, Afghanistan",8,78.1,21.9
+2022,"Rio de Janeiro, Brazil",9,77.6,22.4
+2022,"Recife, Brazil",10,76.4,23.6
+2022,"Port of Spain, Trinidad And Tobago",11,76.1,23.9
+2022,"Salvador, Brazil",12,76,24
+2022,"Baltimore, MD, United States",13,75,25
+2022,"Detroit, MI, United States",14,74.8,25.2
+2022,"Rosario, Argentina",15,74.5,25.5
+2022,"Memphis, TN, United States",16,73.9,26.1
+2022,"Porto Alegre, Brazil",17,73.6,26.4
+2022,"Cape Town, South Africa",18,73.4,26.6
+2022,"Bloemfontein, South Africa",19,73,27
+2022,"San Salvador, El Salvador",20,71.9,28.1
+2022,"Tijuana, Mexico",21,71.2,28.8
+2022,"Bradford, United Kingdom",22,70.8,29.2
+2022,"Albuquerque, NM, United States",23,70.7,29.3
+2022,"Saint Louis, MO, United States",24,70.6,29.4
+2022,"Kingston, Jamaica",25,70.3,29.7
+2022,"Sao Paulo, Brazil",26,70.2,29.8
+2022,"Lima, Peru",27,70.2,29.8
+2022,"Coventry, United Kingdom",28,69.4,30.6
+2022,"Guayaquil, Ecuador",29,69.3,30.7
+2022,"Mexico City, Mexico",30,69.1,30.9
+2022,"Meerut, India",31,68.9,31.1
+2022,"San Juan, Puerto Rico",32,68.8,31.2
+2022,"Windhoek, Namibia",33,68.6,31.4
+2022,"Cali, Colombia",34,68.6,31.4
+2022,"Santo Domingo, Dominican Republic",35,68.1,31.9
+2022,"Damascus, Syria",36,67.9,32.1
+2022,"Luanda, Angola",37,67.2,32.8
+2022,"Milwaukee, WI, United States",38,66.9,33.1
+2022,"Campinas, Brazil",39,66.5,33.5
+2022,"Chicago, IL, United States",40,66,34
+2022,"Lagos, Nigeria",41,65.9,34.1
+2022,"New Orleans, LA, United States",42,65.6,34.4
+2022,"Oakland, CA, United States",43,65.6,34.4
+2022,"Goiania, Brazil",44,65.3,34.7
+2022,"Almaty, Kazakhstan",45,65.2,34.8
+2022,"Bogota, Colombia",46,64.9,35.1
+2022,"Klang, Malaysia",47,64.5,35.5
+2022,"Manila, Philippines",48,64.4,35.6
+2022,"Surrey, Canada",49,64.3,35.7
+2022,"Dhaka, Bangladesh",50,64.1,35.9
+2022,"Cleveland, OH, United States",51,64.1,35.9
+2022,"Male, Maldives",52,63.9,36.1
+2022,"Kuala Lumpur, Malaysia",53,63.8,36.2
+2022,"Belo Horizonte, Brazil",54,63.8,36.2
+2022,"Houston, TX, United States",55,63.8,36.2
+2022,"Lethbridge, AB, Canada",56,63.6,36.4
+2022,"Rochester, NY, United States",57,63.4,36.6
+2022,"Gosford, Australia",58,63.4,36.6
+2022,"Buenos Aires, Argentina",59,63.1,36.9
+2022,"Atlanta, GA, United States",60,63,37
+2022,"Guatemala City, Guatemala",61,62.5,37.5
+2022,"Philadelphia, PA, United States",62,62.4,37.6
+2022,"Puebla, Mexico",63,62.4,37.6
+2022,"Curitiba, Brazil",64,62.3,37.7
+2022,"Tripoli, Libya",65,62.2,37.8
+2022,"Guadalajara, Mexico",66,61.8,38.2
+2022,"Red Deer, Canada",67,61.7,38.3
+2022,"Marseille, France",68,61.7,38.3
+2022,"Birmingham, United Kingdom",69,61.5,38.5
+2022,"Anchorage, AK, United States",70,61.2,38.8
+2022,"Dar es Salaam, Tanzania",71,60.8,39.2
+2022,"Cairns, Australia",72,60.7,39.3
+2022,"Quito, Ecuador",73,60.7,39.3
+2022,"Harare, Zimbabwe",74,60.7,39.3
+2022,"Quezon City, Philippines",75,60.7,39.3
+2022,"Ghaziabad, India",76,60.7,39.3
+2022,"Baghdad, Iraq",77,60.5,39.5
+2022,"Catania, Italy",78,60.4,39.6
+2022,"Brasilia, Brazil",79,60.2,39.8
+2022,"Nantes, France",80,60.1,39.9
+2022,"North Bay, Canada",81,60,40
+2022,"Minsk, Belarus",82,59.8,40.2
+2022,"Sudbury, Canada",83,59.5,40.5
+2022,"Delhi, India",84,59.3,40.7
+2022,"Nairobi, Kenya",85,58.9,41.1
+2022,"Nice, France",86,58.8,41.2
+2022,"Washington, DC, United States",87,58.7,41.3
+2022,"Sault Ste. Marie, Canada",88,58.6,41.4
+2022,"San Francisco, CA, United States",89,58.6,41.4
+2022,"Naples, Italy",90,58.5,41.5
+2022,"Darwin, Australia",91,58.4,41.6
+2022,"Kelowna, Canada",92,58.3,41.7
+2022,"Noida, India",93,58,42
+2022,"Winnipeg, Canada",94,57.8,42.2
+2022,"Kansas City, MO, United States",95,57.7,42.3
+2022,"Santiago, Chile",96,57.6,42.4
+2022,"Indianapolis, IN, United States",97,57.6,42.4
+2022,"Malmo, Sweden",98,56.8,43.2
+2022,"Manchester, United Kingdom",99,56,44
+2022,"Johor Bahru, Malaysia",100,56,44
+2022,"Athens, Greece",101,55.9,44.1
+2022,"Louisville, KY, United States",102,55.8,44.2
+2022,"Gurgaon, India",103,55.7,44.3
+2022,"Jacksonville, FL, United States",104,55.6,44.4
+2022,"Oshawa, Canada",105,55.6,44.4
+2022,"Casablanca, Morocco",106,55.6,44.4
+2022,"Petaling Jaya, Malaysia",107,55.5,44.5
+2022,"San Jose, Costa Rica",108,55.4,44.6
+2022,"Bangalore, India",109,55.2,44.8
+2022,"Las Vegas, NV, United States",110,55.1,44.9
+2022,"Brampton, Canada",111,55,45
+2022,"Paris, France",112,55,45
+2022,"Tehran, Iran",113,54.9,45.1
+2022,"Algiers, Algeria",114,54.8,45.2
+2022,"Minneapolis, MN, United States",115,54.8,45.2
+2022,"Spokane, WA, United States",116,54.8,45.2
+2022,"Ulaanbaatar, Mongolia",117,54.5,45.5
+2022,"Cambridge, Canada",118,54.4,45.6
+2022,"Montevideo, Uruguay",119,54.4,45.6
+2022,"Gaborone, Botswana",120,54.3,45.7
+2022,"Hamilton, Canada",121,54.2,45.8
+2022,"Cancun, Mexico",122,53.9,46.1
+2022,"Ho Chi Minh City, Vietnam",123,53.8,46.2
+2022,"Thessaloniki, Greece",124,53.8,46.2
+2022,"London, Canada",125,53.7,46.3
+2022,"Odessa (Odesa), Ukraine",126,53.5,46.5
+2022,"Jakarta, Indonesia",127,53.5,46.5
+2022,"Karachi, Pakistan",128,53.4,46.6
+2022,"Montpellier, France",129,53.3,46.7
+2022,"Regina, Canada",130,53.3,46.7
+2022,"London, United Kingdom",131,53.2,46.8
+2022,"Rome, Italy",132,53.2,46.8
+2022,"Drogheda, Ireland",133,53.1,46.9
+2022,"Grenoble, France",134,53,47
+2022,"Phnom Penh, Cambodia",135,53,47
+2022,"Ufa, Russia",136,52.9,47.1
+2022,"Lille, France",137,52.9,47.1
+2022,"Miami, FL, United States",138,52.8,47.2
+2022,"Amadora, Portugal",139,52.7,47.3
+2022,"Bilbao, Spain",140,52.6,47.4
+2022,"Rostov-on-Don (Rostov-na-donu), Russia",141,52.5,47.5
+2022,"Liege, Belgium",142,52.4,47.6
+2022,"Bari, Italy",143,52.3,47.7
+2022,"Mysore, India",144,52,48
+2022,"Medellin, Colombia",145,52,48
+2022,"Wollongong, Australia",146,51.9,48.1
+2022,"San Miguel de Allende, Mexico",147,51.8,48.2
+2022,"Florianopolis, Brazil",148,51.8,48.2
+2022,"Rennes, France",149,51.7,48.3
+2022,"Cebu, Philippines",150,51.7,48.3
+2022,"Phoenix, AZ, United States",151,51.7,48.3
+2022,"Brussels, Belgium",152,51.7,48.3
+2022,"Dublin, Ireland",153,51.7,48.3
+2022,"Portland, OR, United States",154,51.5,48.5
+2022,"Dnipro, Ukraine",155,51.4,48.6
+2022,"Orlando, FL, United States",156,51.4,48.6
+2022,"Nottingham, United Kingdom",157,50.8,49.2
+2022,"Kamloops, Canada",158,50.5,49.5
+2022,"Seattle, WA, United States",159,50.5,49.5
+2022,"Dallas, TX, United States",160,50.3,49.7
+2022,"Tucson, AZ, United States",161,50.2,49.8
+2022,"Geelong, Australia",162,50.1,49.9
+2022,"Guanajuato, Mexico",163,50.1,49.9
+2022,"Liepaja, Latvia",164,50,50
+2022,"Turin, Italy",165,49.9,50.1
+2022,"Cairo, Egypt",166,49.8,50.2
+2022,"Los Angeles, CA, United States",167,49.8,50.2
+2022,"Lyon, France",168,49.7,50.3
+2022,"Lucknow (Lakhnau), India",169,49.1,50.9
+2022,"Rawalpindi, Pakistan",170,49.1,50.9
+2022,"Asuncion, Paraguay",171,49,51
+2022,"Saskatoon, Canada",172,48.9,51.1
+2022,"San Antonio, TX, United States",173,48.8,51.2
+2022,"Cincinnati, OH, United States",174,48.8,51.2
+2022,"Bali, Indonesia",175,48.6,51.4
+2022,"Sacramento, CA, United States",176,48.6,51.4
+2022,"Kharkiv, Ukraine",177,48.5,51.5
+2022,"Addis Ababa, Ethiopia",178,48.4,51.6
+2022,"Podgorica, Montenegro",179,48.4,51.6
+2022,"Indore, India",180,48.4,51.6
+2022,"Barcelona, Spain",181,48.1,51.9
+2022,"Vitoria, Brazil",182,48,52
+2022,"Craiova, Romania",183,47.9,52.1
+2022,"Gothenburg, Sweden",184,47.9,52.1
+2022,"Tampa, FL, United States",185,47.9,52.1
+2022,"Tunis, Tunisia",186,47.8,52.2
+2022,"Toulouse, France",187,47.8,52.2
+2022,"Nanaimo, BC, Canada",188,47.7,52.3
+2022,"Istanbul, Turkey",189,47.5,52.5
+2022,"Panama City, Panama",190,47.5,52.5
+2022,"Monterrey, Mexico",191,47.4,52.6
+2022,"Novosibirsk, Russia",192,47.3,52.7
+2022,"Yekaterinburg, Russia",193,47.2,52.8
+2022,"Pattaya, Thailand",194,47.2,52.8
+2022,"Skopje, North Macedonia",195,47.1,52.9
+2022,"Liverpool, United Kingdom",196,47.1,52.9
+2022,"New York, NY, United States",197,47.1,52.9
+2022,"Bordeaux, France",198,47.1,52.9
+2022,"Newcastle, Australia",199,47,53
+2022,"St. John's, Newfoundland and Labrador, Canada",200,46.9,53.1
+2022,"Beirut, Lebanon",201,46.9,53.1
+2022,"St.Catharines, Canada",202,46.8,53.2
+2022,"Kuching, Malaysia",203,46.8,53.2
+2022,"Kolkata, India",204,46.5,53.5
+2022,"Richmond, VA, United States",205,46.5,53.5
+2022,"Ajax, ON, Canada",206,46.2,53.8
+2022,"Accra, Ghana",207,46.1,53.9
+2022,"Stockholm, Sweden",208,46.1,53.9
+2022,"Nashville, TN, United States",209,46.1,53.9
+2022,"Honolulu, HI, United States",210,46,54
+2022,"Omaha, NE, United States",211,45.8,54.2
+2022,"Bologna, Italy",212,45.8,54.2
+2022,"Moncton, Canada",213,45.6,54.4
+2022,"Peterborough, United Kingdom",214,45.6,54.4
+2022,"Auckland, New Zealand",215,45.6,54.4
+2022,"San Jose, CA, United States",216,45.6,54.4
+2022,"Hamilton, New Zealand",217,45.6,54.4
+2022,"Kiev (Kyiv), Ukraine",218,45.4,54.6
+2022,"Glasgow, United Kingdom",219,45.3,54.7
+2022,"Charlotte, NC, United States",220,45.3,54.7
+2022,"Mumbai, India",221,45.2,54.8
+2022,"Palermo, Italy",222,45.1,54.9
+2022,"Denver, CO, United States",223,45,55
+2022,"Chisinau, Moldova",224,44.8,55.2
+2022,"Milan, Italy",225,44.6,55.4
+2022,"Buffalo, NY, United States",226,44.5,55.5
+2022,"Sarajevo, Bosnia And Herzegovina",227,44.5,55.5
+2022,"Chandigarh, India",228,44.4,55.6
+2022,"Frankfurt, Germany",229,44.4,55.6
+2022,"Kristiansand, Norway",230,44.1,55.9
+2022,"Melbourne, Australia",231,44.1,55.9
+2022,"Belfast, United Kingdom",232,44,56
+2022,"Sheffield, United Kingdom",233,44,56
+2022,"Hyderabad, India",234,44,56
+2022,"Tirana, Albania",235,43.9,56.1
+2022,"Leeds, United Kingdom",236,43.7,56.3
+2022,"Columbus, OH, United States",237,43.4,56.6
+2022,"Edmonton, Canada",238,43.4,56.6
+2022,"Gold Coast, Australia",239,43.3,56.7
+2022,"Cologne, Germany",240,43.2,56.8
+2022,"Windsor, Canada",241,42.9,57.1
+2022,"Vaughan, Canada",242,42.9,57.1
+2022,"Mississauga, Canada",243,42.7,57.3
+2022,"Sofia, Bulgaria",244,42.5,57.5
+2022,"Hamburg, Germany",245,42.5,57.5
+2022,"Lodz, Poland",246,42.1,57.9
+2022,"Berlin, Germany",247,42,58
+2022,"Perth, Australia",248,41.9,58.1
+2022,"Iloilo, Philippines",249,41.7,58.3
+2022,"Genoa, Italy",250,41.6,58.4
+2022,"Pune, India",251,41.6,58.4
+2022,"Bangkok, Thailand",252,41.5,58.5
+2022,"Hanover, Germany",253,41.5,58.5
+2022,"Burnaby, Canada",254,41.4,58.6
+2022,"Cuenca, Ecuador",255,41.3,58.7
+2022,"Kochi, India",256,41.2,58.8
+2022,"Toronto, Canada",257,41.1,58.9
+2022,"Uppsala, Sweden",258,41.1,58.9
+2022,"Bremen, Germany",259,41,59
+2022,"Novi Sad, Serbia",260,40.9,59.1
+2022,"Halifax, Canada",261,40.8,59.2
+2022,"Leipzig, Germany",262,40.7,59.3
+2022,"Chennai, India",263,40.6,59.4
+2022,"Bristol, United Kingdom",264,40.5,59.5
+2022,"Colombo, Sri Lanka",265,40.4,59.6
+2022,"Brooklyn, NY, United States",266,40.3,59.7
+2022,"Bonn, Germany",267,40,60
+2022,"Coimbatore, India",268,40,60
+2022,"Christchurch, New Zealand",269,39.9,60.1
+2022,"Ankara, Turkey",270,39.7,60.3
+2022,"Thiruvananthapuram, India",271,39.7,60.3
+2022,"Lviv, Ukraine",272,39.6,60.4
+2022,"Limerick, Ireland",273,39.5,60.5
+2022,"Newcastle upon Tyne, United Kingdom",274,39.3,60.7
+2022,"Saint Petersburg, Russia",275,39.1,60.9
+2022,"Pittsburgh, PA, United States",276,39.1,60.9
+2022,"Kitchener, Canada",277,39.1,60.9
+2022,"Riverside, CA, United States",278,39,61
+2022,"Katowice, Poland",279,38.9,61.1
+2022,"Florence, Italy",280,38.8,61.2
+2022,"Makati, Philippines",281,38.8,61.2
+2022,"Lahore, Pakistan",282,38.7,61.3
+2022,"Alexandria, Egypt",283,38.7,61.3
+2022,"Karlsruhe, Germany",284,38.4,61.6
+2022,"Hanoi, Vietnam",285,38.1,61.9
+2022,"Belgrade, Serbia",286,38.1,61.9
+2022,"Amman, Jordan",287,38,62
+2022,"Kaunas, Lithuania",288,38,62
+2022,"Riga, Latvia",289,37.8,62.2
+2022,"Baguio, Philippines",290,37.8,62.2
+2022,"Moscow, Russia",291,37.7,62.3
+2022,"Visakhapatnam, India",292,37.4,62.6
+2022,"Cardiff, United Kingdom",293,37.4,62.6
+2022,"Nagpur, India",294,37.3,62.7
+2022,"Vancouver, Canada",295,37.2,62.8
+2022,"Guangzhou, China",296,37.1,62.9
+2022,"Varna, Bulgaria",297,37.1,62.9
+2022,"Austin, TX, United States",298,37.1,62.9
+2022,"Constanta, Romania",299,37,63
+2022,"Cagliari, Italy",300,36.9,63.1
+2022,"Kathmandu, Nepal",301,36.9,63.1
+2022,"Boston, MA, United States",302,36.9,63.1
+2022,"Klaipeda, Lithuania",303,36.8,63.2
+2022,"Penang, Malaysia",304,36.8,63.2
+2022,"Brighton, United Kingdom",305,36.8,63.2
+2022,"San Diego, CA, United States",306,36.7,63.3
+2022,"Rabat, Morocco",307,36.7,63.3
+2022,"Victoria, Canada",308,36.7,63.3
+2022,"Antwerp, Belgium",309,36.4,63.6
+2022,"Rotterdam, Netherlands",310,36.4,63.6
+2022,"Cork, Ireland",311,36.3,63.7
+2022,"Jerusalem, Israel",312,36.2,63.8
+2022,"Oulu, Finland",313,36.2,63.8
+2022,"Queretaro (Santiago de Querétaro), Mexico",314,36.1,63.9
+2022,"Boise, ID, United States",315,36.1,63.9
+2022,"Barrie, Canada",316,35.9,64.1
+2022,"Jaipur, India",317,35.7,64.3
+2022,"Calgary, Canada",318,35.6,64.4
+2022,"Aberdeen, United Kingdom",319,35.5,64.5
+2022,"Porto, Portugal",320,35.4,64.6
+2022,"Budapest, Hungary",321,35.4,64.6
+2022,"Surat, India",322,35.2,64.8
+2022,"Puerto Vallarta, Mexico",323,35,65
+2022,"Split, Croatia",324,34.9,65.1
+2022,"Brisbane, Australia",325,34.8,65.2
+2022,"Navi Mumbai, India",326,34.6,65.4
+2022,"Raleigh, NC, United States",327,34.5,65.5
+2022,"Oslo, Norway",328,34.4,65.6
+2022,"Shanghai, China",329,34.3,65.7
+2022,"Banja Luka, Bosnia And Herzegovina",330,34.1,65.9
+2022,"Madison, WI, United States",331,34,66
+2022,"Tashkent, Uzbekistan",332,34,66
+2022,"Aguascalientes, Mexico",333,33.8,66.2
+2022,"Sydney, Australia",334,33.7,66.3
+2022,"Amsterdam, Netherlands",335,33.6,66.4
+2022,"Lund, Sweden",336,33.6,66.4
+2022,"Dusseldorf, Germany",337,33.4,66.6
+2022,"Beijing, China",338,33.4,66.6
+2022,"Guelph, Canada",339,33.3,66.7
+2022,"Astana (Nur-Sultan), Kazakhstan",340,33.2,66.8
+2022,"El Paso, TX, United States",341,33.1,66.9
+2022,"Vadodara, India",342,33,67
+2022,"Shenzhen, China",343,33,67
+2022,"Hobart, Australia",344,32.9,67.1
+2022,"Nuremberg, Germany",345,32.7,67.3
+2022,"Salt Lake City, UT, United States",346,32.7,67.3
+2022,"Nicosia, Cyprus",347,32.7,67.3
+2022,"Limassol, Cyprus",348,32.6,67.4
+2022,"Ahmedabad, India",349,32.6,67.4
+2022,"Gdansk, Poland",350,32.1,67.9
+2022,"Kingston, Canada",351,31.8,68.2
+2022,"Nizhny Novgorod, Russia",352,31.7,68.3
+2022,"Osaka, Japan",353,31.7,68.3
+2022,"Havana, Cuba",354,31.3,68.7
+2022,"Palma de Mallorca, Spain",355,31.1,68.9
+2022,"Incheon, South Korea",356,30.9,69.1
+2022,"Baku, Azerbaijan",357,30.9,69.1
+2022,"Kuwait City, Kuwait",358,30.8,69.2
+2022,"Stuttgart, Germany",359,30.5,69.5
+2022,"Seville (Sevilla), Spain",360,30.4,69.6
+2022,"Montreal, Canada",361,30.4,69.6
+2022,"Bratislava, Slovakia",362,30.3,69.7
+2022,"Ad Dammam, Saudi Arabia",363,30.3,69.7
+2022,"Dresden, Germany",364,30.2,69.8
+2022,"Cambridge, United Kingdom",365,30.2,69.8
+2022,"Edinburgh, United Kingdom",366,30,70
+2022,"Izmir, Turkey",367,30,70
+2022,"Freiburg im Breisgau, Germany",368,29.9,70.1
+2022,"Luxembourg, Luxembourg",369,29.7,70.3
+2022,"Madrid, Spain",370,29.7,70.3
+2022,"Iasi, Romania",371,29.5,70.5
+2022,"Burlington, Canada",372,29.3,70.7
+2022,"Adelaide, Australia",373,29.3,70.7
+2022,"Wellington, New Zealand",374,29.3,70.7
+2022,"Islamabad, Pakistan",375,29.3,70.7
+2022,"Galway, Ireland",376,29.1,70.9
+2022,"Jeddah (Jiddah), Saudi Arabia",377,29,71
+2022,"Lisbon, Portugal",378,28.9,71.1
+2022,"Wroclaw, Poland",379,28.1,71.9
+2022,"Bursa, Turkey",380,28.1,71.9
+2022,"Bucharest, Romania",381,27.9,72.1
+2022,"Bergen, Norway",382,27.9,72.1
+2022,"Davao, Philippines",383,27.8,72.2
+2022,"Waterloo, Canada",384,27.8,72.2
+2022,"Singapore, Singapore",385,27.6,72.4
+2022,"Krakow (Cracow), Poland",386,27.6,72.4
+2022,"Poznan, Poland",387,27.5,72.5
+2022,"Haifa, Israel",388,27.5,72.5
+2022,"Alicante, Spain",389,27.4,72.6
+2022,"Vilnius, Lithuania",390,27.3,72.7
+2022,"Copenhagen, Denmark",391,27.3,72.7
+2022,"Malaga, Spain",392,27.3,72.7
+2022,"Oakville, Canada",393,26.9,73.1
+2022,"Utrecht, Netherlands",394,26.6,73.4
+2022,"Riyadh, Saudi Arabia",395,26.5,73.5
+2022,"Vienna, Austria",396,26.5,73.5
+2022,"Ottawa, Canada",397,26.4,73.6
+2022,"Lausanne, Switzerland",398,26.3,73.7
+2022,"Brno, Czech Republic",399,26.3,73.7
+2022,"Antalya, Turkey",400,26.2,73.8
+2022,"Tel Aviv-Yafo, Israel",401,26.2,73.8
+2022,"Geneva, Switzerland",402,26.2,73.8
+2022,"Warsaw, Poland",403,26.2,73.8
+2022,"Richmond Hill, Canada",404,25.9,74.1
+2022,"Seoul, South Korea",405,25.8,74.2
+2022,"Amarillo, TX, United States",406,25.6,74.4
+2022,"Helsinki, Finland",407,25.5,74.5
+2022,"Brasov, Romania",408,25.4,74.6
+2022,"The Hague (Den Haag), Netherlands",409,25.4,74.6
+2022,"Mangalore, India",410,25.3,74.7
+2022,"Gent, Belgium",411,25.3,74.7
+2022,"Merida, Mexico",412,25.1,74.9
+2022,"Valencia, Spain",413,25.1,74.9
+2022,"Markham, Canada",414,25.1,74.9
+2022,"Tbilisi, Georgia",415,25.1,74.9
+2022,"Graz, Austria",416,25,75
+2022,"Trieste, Italy",417,24.7,75.3
+2022,"Aalborg, Denmark",418,24.5,75.5
+2022,"Kigali, Rwanda",419,24.3,75.7
+2022,"Eindhoven, Netherlands",420,24.3,75.7
+2022,"Prague, Czech Republic",421,24.2,75.8
+2022,"Stavanger, Norway",422,23.8,76.2
+2022,"Tokyo, Japan",423,23.6,76.4
+2022,"Rijeka, Croatia",424,23.5,76.5
+2022,"Coquitlam, Canada",425,23.4,76.6
+2022,"Chiang Mai, Thailand",426,23.3,76.7
+2022,"Timisoara, Romania",427,23.2,76.8
+2022,"Tallinn, Estonia",428,22.9,77.1
+2022,"Canberra, Australia",429,22.5,77.5
+2022,"Tampere, Finland",430,22.1,77.9
+2022,"Yerevan, Armenia",431,22,78
+2022,"Hong Kong, Hong Kong (China)",432,21.9,78.1
+2022,"Reykjavik, Iceland",433,21.8,78.2
+2022,"Cluj-Napoca, Romania",434,21.7,78.3
+2022,"Tartu, Estonia",435,21.7,78.3
+2022,"Ljubljana, Slovenia",436,21.5,78.5
+2022,"Irvine, CA, United States",437,21.4,78.6
+2022,"Zagreb, Croatia",438,21.4,78.6
+2022,"North Vancouver, Canada",439,21.3,78.7
+2022,"Manama, Bahrain",440,21.1,78.9
+2022,"Aarhus, Denmark",441,21,79
+2022,"Muscat, Oman",442,20.9,79.1
+2022,"Groningen, Netherlands",443,20.6,79.4
+2022,"Yakutsk, Russia",444,20.6,79.4
+2022,"Basel, Switzerland",445,20.5,79.5
+2022,"Trondheim, Norway",446,20.2,79.8
+2022,"Mecca, Saudi Arabia",447,19.2,80.8
+2022,"Bern, Switzerland",448,18.3,81.7
+2022,"Lugano, Switzerland",449,17.5,82.5
+2022,"Munich, Germany",450,17.5,82.5
+2022,"Zurich, Switzerland",451,16.8,83.2
+2022,"Dubai, United Arab Emirates",452,16.3,83.7
+2022,"Funchal, Portugal",453,15.4,84.6
+2022,"Quebec City, Canada",454,15.2,84.8
+2022,"Taipei, Taiwan",455,14.3,85.7
+2022,"Sharjah, United Arab Emirates",456,14.2,85.8
+2022,"San Sebastian, Spain",457,14,86
+2022,"Doha, Qatar",458,13.8,86.2
+2022,"Abu Dhabi, United Arab Emirates",459,11.9,88.1

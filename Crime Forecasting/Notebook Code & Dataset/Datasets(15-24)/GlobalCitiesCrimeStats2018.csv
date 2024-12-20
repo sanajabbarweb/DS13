@@ -1,0 +1,328 @@
+Year,City_name,City_Rank,City_Crime_Index,City_Safety_Index
+2018,"San Pedro Sula, Honduras",1,85.2,14.8
+2018,"Caracas, Venezuela",2,82.6,17.4
+2018,"Port Moresby, Papua New Guinea",3,80.7,19.3
+2018,"Fortaleza, Brazil",4,80.6,19.4
+2018,"Durban, South Africa",5,79.2,20.8
+2018,"Johannesburg, South Africa",6,78.9,21.1
+2018,"Salvador, Brazil",7,78.7,21.3
+2018,"Pretoria, South Africa",8,78.5,21.5
+2018,"Port of Spain, Trinidad And Tobago",9,77.7,22.3
+2018,"Recife, Brazil",10,77.5,22.5
+2018,"Porto Alegre, Brazil",11,77.1,22.9
+2018,"Rio de Janeiro, Brazil",12,77,23
+2018,"San Salvador, El Salvador",13,73.5,26.5
+2018,"Port Elizabeth, South Africa",14,73.2,26.8
+2018,"Sao Paulo, Brazil",15,72.4,27.6
+2018,"Windhoek, Namibia",16,71.9,28.1
+2018,"Detroit, MI, United States",17,71.4,28.6
+2018,"Dhaka, Bangladesh",18,70.6,29.4
+2018,"Kingston, Jamaica",19,70.3,29.7
+2018,"Baltimore, MD, United States",20,70.2,29.8
+2018,"New Orleans, LA, United States",21,69.9,30.1
+2018,"Cape Town, South Africa",22,69.9,30.1
+2018,"Belo Horizonte, Brazil",23,69.1,30.9
+2018,"San Juan, Puerto Rico",24,68.9,31.1
+2018,"Lima, Peru",25,68.4,31.6
+2018,"Kuala Lumpur, Malaysia",26,68.2,31.8
+2018,"Albuquerque, NM, United States",27,68.1,31.9
+2018,"Rosario, Argentina",28,67.4,32.6
+2018,"Santo Domingo, Dominican Republic",29,67.2,32.8
+2018,"Saint Louis, MO, United States",30,66.9,33.1
+2018,"Mexico City, Mexico",31,66.6,33.4
+2018,"Lagos, Nigeria",32,66.4,33.6
+2018,"Oakland, CA, United States",33,66.3,33.7
+2018,"Campinas, Brazil",34,66,34
+2018,"Chicago, IL, United States",35,65.4,34.6
+2018,"Curitiba, Brazil",36,65.4,34.6
+2018,"Male, Maldives",37,65.2,34.8
+2018,"Petaling Jaya, Malaysia",38,65.1,34.9
+2018,"Atlanta, GA, United States",39,65,35
+2018,"Gurgaon, India",40,65,35
+2018,"Damascus, Syria",41,64.6,35.4
+2018,"Brasilia, Brazil",42,64.4,35.6
+2018,"Dar es Salaam, Tanzania",43,64.4,35.6
+2018,"Marseille, France",44,64.3,35.7
+2018,"Townsville, Australia",45,63.4,36.6
+2018,"Milwaukee, WI, United States",46,63.3,36.7
+2018,"Surrey, Canada",47,63.3,36.7
+2018,"Darwin, Australia",48,63.1,36.9
+2018,"Buenos Aires, Argentina",49,62.4,37.6
+2018,"Karachi, Pakistan",50,62.2,37.8
+2018,"Bogota, Colombia",51,61.6,38.4
+2018,"Puebla, Mexico",52,61.1,38.9
+2018,"Houston, TX, United States",53,60.9,39.1
+2018,"Quezon City, Philippines",54,60.3,39.7
+2018,"Johor Bahru, Malaysia",55,60.2,39.8
+2018,"Ulaanbaatar, Mongolia",56,60.2,39.8
+2018,"Kansas City, MO, United States",57,60.1,39.9
+2018,"Nairobi, Kenya",58,59.9,40.1
+2018,"Tripoli, Libya",59,59.6,40.4
+2018,"Delhi, India",60,59.3,40.7
+2018,"Manila, Philippines",61,59.2,40.8
+2018,"Philadelphia, PA, United States",62,58.5,41.5
+2018,"Phuket, Thailand",63,58.5,41.5
+2018,"Naples, Italy",64,58.3,41.7
+2018,"Catania, Italy",65,58.1,41.9
+2018,"Florianopolis, Brazil",66,57.9,42.1
+2018,"Washington, DC, United States",67,57.5,42.5
+2018,"Phoenix, AZ, United States",68,56.7,43.3
+2018,"Orlando, FL, United States",69,56.7,43.3
+2018,"Ho Chi Minh City, Vietnam",70,56.5,43.5
+2018,"Rochester, NY, United States",71,56.5,43.5
+2018,"Turin, Italy",72,56.3,43.7
+2018,"Kristiansand, Norway",73,56.2,43.8
+2018,"Montevideo, Uruguay",74,55.9,44.1
+2018,"Manchester, United Kingdom",75,55.9,44.1
+2018,"Cairo, Egypt",76,55.9,44.1
+2018,"Phnom Penh, Cambodia",77,55.9,44.1
+2018,"Pattaya, Thailand",78,55.4,44.6
+2018,"Las Vegas, NV, United States",79,55.2,44.8
+2018,"Regina, Canada",80,54.7,45.3
+2018,"Brampton, Canada",81,54.7,45.3
+2018,"Rome, Italy",82,54.3,45.7
+2018,"Casablanca, Morocco",83,54.3,45.7
+2018,"Winnipeg, Canada",84,54.3,45.7
+2018,"Guadalajara, Mexico",85,54.2,45.8
+2018,"Miami, FL, United States",86,54.2,45.8
+2018,"Tehran, Iran",87,53.8,46.2
+2018,"Quito, Ecuador",88,53.5,46.5
+2018,"Baghdad, Iraq",89,53.3,46.7
+2018,"Jakarta, Indonesia",90,53.1,46.9
+2018,"San Jose, Costa Rica",91,53.1,46.9
+2018,"Paris, France",92,52.9,47.1
+2018,"Birmingham, United Kingdom",93,52.8,47.2
+2018,"Shenzhen, China",94,52.6,47.4
+2018,"Alexandria, Egypt",95,52.5,47.5
+2018,"Tromso, Norway",96,52.5,47.5
+2018,"Harare, Zimbabwe",97,52.4,47.6
+2018,"Ad Dammam, Saudi Arabia",98,52,48
+2018,"Tijuana, Mexico",99,51.6,48.4
+2018,"Hanoi, Vietnam",100,51.5,48.5
+2018,"Brussels, Belgium",101,51.3,48.7
+2018,"Algiers, Algeria",102,51.2,48.8
+2018,"Hamburg, Germany",103,51.1,48.9
+2018,"Cordoba, Argentina",104,50.8,49.2
+2018,"Dublin, Ireland",105,50.6,49.4
+2018,"Guangzhou, China",106,50.6,49.4
+2018,"Monterrey, Mexico",107,50.6,49.4
+2018,"Bremen, Germany",108,50.5,49.5
+2018,"Istanbul, Turkey",109,50.3,49.7
+2018,"Kuching, Malaysia",110,50.1,49.9
+2018,"Malmo, Sweden",111,50.1,49.9
+2018,"Almaty, Kazakhstan",112,50.1,49.9
+2018,"Beirut, Lebanon",113,49.9,50.1
+2018,"Kolkata, India",114,49.7,50.3
+2018,"Bangalore, India",115,49.7,50.3
+2018,"Santiago, Chile",116,49.7,50.3
+2018,"Athens, Greece",117,49.6,50.4
+2018,"San Francisco, CA, United States",118,49.2,50.8
+2018,"Tampa, FL, United States",119,49.1,50.9
+2018,"Minneapolis, MN, United States",120,49.1,50.9
+2018,"Saskatoon, Canada",121,48.8,51.2
+2018,"Jeddah (Jiddah), Saudi Arabia",122,48.8,51.2
+2018,"Iloilo, Philippines",123,48.8,51.2
+2018,"Cologne, Germany",124,48.5,51.5
+2018,"Los Angeles, CA, United States",125,48.4,51.6
+2018,"Lodz, Poland",126,48.4,51.6
+2018,"Panama City, Panama",127,48.3,51.7
+2018,"Cincinnati, OH, United States",128,48.2,51.8
+2018,"Beijing, China",129,48.1,51.9
+2018,"Kiev (Kyiv), Ukraine",130,47.9,52.1
+2018,"Sacramento, CA, United States",131,47.8,52.2
+2018,"London, United Kingdom",132,47.7,52.3
+2018,"Stockholm, Sweden",133,47.6,52.4
+2018,"San Antonio, TX, United States",134,47.3,52.7
+2018,"Novosibirsk, Russia",135,47.2,52.8
+2018,"Bangkok, Thailand",136,47.1,52.9
+2018,"London, Canada",137,47,53
+2018,"Lahore, Pakistan",138,46.9,53.1
+2018,"Kharkiv, Ukraine",139,46.8,53.2
+2018,"Sarajevo, Bosnia And Herzegovina",140,46.7,53.3
+2018,"San Jose, CA, United States",141,46.6,53.4
+2018,"Kelowna, Canada",142,46.5,53.5
+2018,"Auckland, New Zealand",143,46.2,53.8
+2018,"Moscow, Russia",144,46,54
+2018,"Mississauga, Canada",145,46,54
+2018,"Barcelona, Spain",146,45.8,54.2
+2018,"Kaunas, Lithuania",147,45.8,54.2
+2018,"Skopje, North Macedonia",148,45.6,54.4
+2018,"Frankfurt, Germany",149,45.5,54.5
+2018,"Medellin, Colombia",150,45.4,54.6
+2018,"Dallas, TX, United States",151,45.2,54.8
+2018,"Columbus, OH, United States",152,45.1,54.9
+2018,"Penang, Malaysia",153,45,55
+2018,"Hamilton, Canada",154,45,55
+2018,"Milan, Italy",155,45,55
+2018,"Addis Ababa, Ethiopia",156,44.7,55.3
+2018,"Glasgow, United Kingdom",157,44.7,55.3
+2018,"New York, NY, United States",158,44.7,55.3
+2018,"Sofia, Bulgaria",159,44.6,55.4
+2018,"Mumbai, India",160,44.5,55.5
+2018,"Chisinau, Moldova",161,44.4,55.6
+2018,"Portland, OR, United States",162,44.4,55.6
+2018,"Cebu, Philippines",163,44.3,55.7
+2018,"Novi Sad, Serbia",164,44.1,55.9
+2018,"Oslo, Norway",165,44,56
+2018,"Shanghai, China",166,44,56
+2018,"Perth, Australia",167,43.9,56.1
+2018,"Malaga, Spain",168,43.9,56.1
+2018,"Seattle, WA, United States",169,43.7,56.3
+2018,"Bologna, Italy",170,43.7,56.3
+2018,"Belfast, United Kingdom",171,43.5,56.5
+2018,"Ankara, Turkey",172,43.4,56.6
+2018,"Porto, Portugal",173,43.1,56.9
+2018,"Riverside, CA, United States",174,43,57
+2018,"Richmond, VA, United States",175,42.9,57.1
+2018,"Gold Coast, Australia",176,42.8,57.2
+2018,"Halifax, Canada",177,42.8,57.2
+2018,"Bali, Indonesia",178,42.5,57.5
+2018,"Melbourne, Australia",179,42.4,57.6
+2018,"Haifa, Israel",180,42.3,57.7
+2018,"Valencia, Spain",181,42.1,57.9
+2018,"Chennai, India",182,42.1,57.9
+2018,"Amman, Jordan",183,42,58
+2018,"Chandigarh, India",184,42,58
+2018,"Gothenburg, Sweden",185,41.9,58.1
+2018,"Toulouse, France",186,41.9,58.1
+2018,"Pune, India",187,41.8,58.2
+2018,"Honolulu, HI, United States",188,41.7,58.3
+2018,"Edmonton, Canada",189,41.7,58.3
+2018,"Stavanger, Norway",190,41.7,58.3
+2018,"Surat, India",191,41.6,58.4
+2018,"Charlotte, NC, United States",192,41.6,58.4
+2018,"Gdansk, Poland",193,41.5,58.5
+2018,"Madrid, Spain",194,41.4,58.6
+2018,"Wroclaw, Poland",195,41.3,58.7
+2018,"Berlin, Germany",196,41,59
+2018,"Jerusalem, Israel",197,40.9,59.1
+2018,"Saint Petersburg, Russia",198,40.9,59.1
+2018,"Bergen, Norway",199,40.6,59.4
+2018,"Visakhapatnam, India",200,40.6,59.4
+2018,"Baguio, Philippines",201,40.6,59.4
+2018,"Leeds, United Kingdom",202,40.6,59.4
+2018,"Ahmedabad, India",203,40.5,59.5
+2018,"Tel Aviv-Yafo, Israel",204,40.4,59.6
+2018,"Nottingham, United Kingdom",205,40.4,59.6
+2018,"Lund, Sweden",206,40.1,59.9
+2018,"Lviv, Ukraine",207,39.9,60.1
+2018,"Incheon, South Korea",208,39.8,60.2
+2018,"Makati, Philippines",209,39.6,60.4
+2018,"Busan, South Korea",210,39.5,60.5
+2018,"Tirana, Albania",211,39.5,60.5
+2018,"Liverpool, United Kingdom",212,39.4,60.6
+2018,"Limerick, Ireland",213,39.1,60.9
+2018,"Nuremberg, Germany",214,39,61
+2018,"Vadodara, India",215,38.8,61.2
+2018,"Cardiff, United Kingdom",216,38.8,61.2
+2018,"Poznan, Poland",217,38.6,61.4
+2018,"Cuenca, Ecuador",218,38.4,61.6
+2018,"Antwerp, Belgium",219,38.4,61.6
+2018,"Cancun, Mexico",220,38.3,61.7
+2018,"Lyon, France",221,38.3,61.7
+2018,"Newcastle upon Tyne, United Kingdom",222,38.3,61.7
+2018,"Sydney, Australia",223,38.2,61.8
+2018,"Christchurch, New Zealand",224,38.1,61.9
+2018,"Pittsburgh, PA, United States",225,38.1,61.9
+2018,"Islamabad, Pakistan",226,38,62
+2018,"Hyderabad, India",227,38,62
+2018,"Riga, Latvia",228,38,62
+2018,"Nagpur, India",229,37.8,62.2
+2018,"Denver, CO, United States",230,37.8,62.2
+2018,"Colombo, Sri Lanka",231,37.5,62.5
+2018,"Budapest, Hungary",232,37,63
+2018,"Belgrade, Serbia",233,36.9,63.1
+2018,"Tunis, Tunisia",234,36.7,63.3
+2018,"Rotterdam, Netherlands",235,36.4,63.6
+2018,"Navi Mumbai, India",236,36.3,63.7
+2018,"Kathmandu, Nepal",237,36,64
+2018,"Krakow (Cracow), Poland",238,36,64
+2018,"Vancouver, Canada",239,36,64
+2018,"Kuwait City, Kuwait",240,35.9,64.1
+2018,"Kochi, India",241,35.4,64.6
+2018,"Toronto, Canada",242,35.4,64.6
+2018,"Seoul, South Korea",243,35.2,64.8
+2018,"Split, Croatia",244,35.1,64.9
+2018,"Queretaro (Santiago de Querétaro), Mexico",245,35.1,64.9
+2018,"Brisbane, Australia",246,34.9,65.1
+2018,"Austin, TX, United States",247,34.6,65.4
+2018,"Florence, Italy",248,34.6,65.4
+2018,"Adelaide, Australia",249,34.3,65.7
+2018,"Thessaloniki, Greece",250,34.2,65.8
+2018,"Hobart, Australia",251,34.2,65.8
+2018,"Limassol, Cyprus",252,34.1,65.9
+2018,"San Diego, CA, United States",253,34,66
+2018,"Trondheim, Norway",254,33.7,66.3
+2018,"Amsterdam, Netherlands",255,33.7,66.3
+2018,"Lisbon, Portugal",256,33.5,66.5
+2018,"Warsaw, Poland",257,33.5,66.5
+2018,"Montreal, Canada",258,33.4,66.6
+2018,"Riyadh, Saudi Arabia",259,33.4,66.6
+2018,"Victoria, Canada",260,32.9,67.1
+2018,"Boston, MA, United States",261,32.9,67.1
+2018,"Calgary, Canada",262,32.4,67.6
+2018,"Boise, ID, United States",263,31.4,68.6
+2018,"Edinburgh, United Kingdom",264,31.4,68.6
+2018,"Vilnius, Lithuania",265,30.9,69.1
+2018,"Bratislava, Slovakia",266,30.7,69.3
+2018,"Lausanne, Switzerland",267,30.5,69.5
+2018,"Puerto Vallarta, Mexico",268,30.2,69.8
+2018,"Wellington, New Zealand",269,29.9,70.1
+2018,"Yerevan, Armenia",270,29.9,70.1
+2018,"Dusseldorf, Germany",271,29.6,70.4
+2018,"The Hague (Den Haag), Netherlands",272,29.6,70.4
+2018,"Manama, Bahrain",273,29.4,70.6
+2018,"Cork, Ireland",274,29.2,70.8
+2018,"Bucharest, Romania",275,28.9,71.1
+2018,"Davao, Philippines",276,28.8,71.2
+2018,"Chiang Mai, Thailand",277,28.7,71.3
+2018,"Luxembourg, Luxembourg",278,28.6,71.4
+2018,"Brno, Czech Republic",279,28.4,71.6
+2018,"Galway, Ireland",280,28.1,71.9
+2018,"Muscat, Oman",281,27.9,72.1
+2018,"Nicosia, Cyprus",282,27.9,72.1
+2018,"Stuttgart, Germany",283,27.7,72.3
+2018,"Prague, Czech Republic",284,27.6,72.4
+2018,"Izmir, Turkey",285,27,73
+2018,"Baku, Azerbaijan",286,26.8,73.2
+2018,"Iasi, Romania",287,26.7,73.3
+2018,"Geneva, Switzerland",288,26.5,73.5
+2018,"Oulu, Finland",289,26.4,73.6
+2018,"Salt Lake City, UT, United States",290,26.2,73.8
+2018,"Zagreb, Croatia",291,26,74
+2018,"Minsk, Belarus",292,25.9,74.1
+2018,"Valenzuela, Philippines",293,25.2,74.8
+2018,"Ljubljana, Slovenia",294,25,75
+2018,"Mangalore, India",295,24.7,75.3
+2018,"Gent, Belgium",296,24.7,75.3
+2018,"Helsinki, Finland",297,24.4,75.6
+2018,"Eindhoven, Netherlands",298,24.3,75.7
+2018,"Waterloo, Canada",299,24,76
+2018,"Ottawa, Canada",300,23.9,76.1
+2018,"Timisoara, Romania",301,23.3,76.7
+2018,"Tampere, Finland",302,23.1,76.9
+2018,"Cluj-Napoca, Romania",303,23,77
+2018,"Vienna, Austria",304,22.6,77.4
+2018,"Reykjavik, Iceland",305,21.8,78.2
+2018,"Copenhagen, Denmark",306,21.6,78.4
+2018,"Merida, Mexico",307,21.5,78.5
+2018,"Canberra, Australia",308,21.2,78.8
+2018,"Eskisehir, Turkey",309,21.1,78.9
+2018,"Hong Kong, Hong Kong (China)",310,20.9,79.1
+2018,"Tallinn, Estonia",311,20.5,79.5
+2018,"Tbilisi, Georgia",312,19.8,80.2
+2018,"Aalborg, Denmark",313,19.8,80.2
+2018,"Bursa, Turkey",314,19.7,80.3
+2018,"Taipei, Taiwan",315,19.5,80.5
+2018,"Rijeka, Croatia",316,19.5,80.5
+2018,"Dubai, United Arab Emirates",317,19,81
+2018,"Zurich, Switzerland",318,19,81
+2018,"Munich, Germany",319,17.5,82.5
+2018,"Bern, Switzerland",320,17.2,82.8
+2018,"Tokyo, Japan",321,16.9,83.1
+2018,"Osaka, Japan",322,16.8,83.2
+2018,"Quebec City, Canada",323,16.4,83.6
+2018,"Singapore, Singapore",324,16.2,83.8
+2018,"Basel, Switzerland",325,16,84
+2018,"Doha, Qatar",326,14.5,85.5
+2018,"Abu Dhabi, United Arab Emirates",327,13.6,86.4
